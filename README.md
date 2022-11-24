@@ -45,7 +45,7 @@
 
 ## 초등-선도교사-사례
 <br>
-#### 김연경 선생님
+### 김연경 선생님
 - 경기도 용인시 구갈초등학교 교사
 - 2021 한국교원대학교 창의교육 거점센터 핵심교원
 - 2022 한국교원대학교 창의교육 거점센터 선도교사
@@ -69,7 +69,7 @@
 <a href="https://github.com/anespart1/DNA_ePBL_results/blob/main/Program_book/%EC%B4%88%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-My%20dream%20job%20Expo-%EA%B9%80%EC%95%84%EB%9D%BC%EC%84%A0%EC%83%9D%EB%8B%98.pdf">발표자료 - My dream job Expo</a>
 <br>
 <br>
-김누리 선생님
+### 김누리 선생님
 - 서울특별시 서울세명초등학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
 
