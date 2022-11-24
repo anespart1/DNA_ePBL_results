@@ -54,7 +54,9 @@
 - 2021 한국교원대학교 창의교육 거점센터 핵심교원
 - 2022 한국교원대학교 창의교육 거점센터 선도교사
 - 수업계획 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/main/Program_book/Lecture%20Planning/%EC%B0%A8%EC%8B%9C%EB%B3%84%20%EC%9C%A0%ED%98%95%ED%99%94%20%EC%88%98%EC%97%85%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EA%B3%84%ED%9A%8D%EC%95%88(%EA%B9%80%EC%97%B0%EA%B2%BD).pdf">수업 프로그램 계획안</a>
-- 발표자료 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/main/Program_book/%EC%B4%88%EB%93%B1-%EC%84%A0%EB%8F%84%EA%B5%90%EC%82%AC-%EB%94%94%EC%A7%80%ED%84%B8%20%EC%84%B8%EA%B3%84%EC%8B%9C%EB%AF%BC%20%EA%B5%AC%EA%B0%88%EC%96%B4%EB%A6%B0%EC%9D%B4-%EA%B9%80%EC%97%B0%EA%B2%BD%EC%84%A0%EC%83%9D%EB%8B%98.pdf">SDGS를 AI로 해결하는 디지털 세계시민 구갈어린이</a>
+- 수업과목 - 융합(사회·국어·창체)
+- 수업주제 - AI 이해를 바탕으로 관련 기술을 활용하여 SDGs 연계 글로벌 문제를 직접 선택·해결해보는 AI융합게이미피케이션 교육 프로그램
+- 발표자료 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/main/Program_book/%EC%B4%88%EB%93%B1-%EC%84%A0%EB%8F%84%EA%B5%90%EC%82%AC-%EB%94%94%EC%A7%80%ED%84%B8%20%EC%84%B8%EA%B3%84%EC%8B%9C%EB%AF%BC%20%EA%B5%AC%EA%B0%88%EC%96%B4%EB%A6%B0%EC%9D%B4-%EA%B9%80%EC%97%B0%EA%B2%BD%EC%84%A0%EC%83%9D%EB%8B%98.pdf">SDGs를 AI로 해결하는 디지털 세계시민 구갈어린이</a>
 <br>
 
 ## 초등-핵심교원-사례
