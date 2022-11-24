@@ -47,7 +47,7 @@
 - [Copyright and license](#copyright-and-license)
 
 
-## [초등학교-선도교사] 수업 프로그램 개발 사례
+## 초등 - 선도교사 수업 프로그램 개발 사례
 
 Several quick start options are available:
 
