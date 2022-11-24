@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://getbootstrap.com/">
-    <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="200" height="165">
+    <img src="https://github.com/anespart1/DNA_ePBL_results/blob/main/etc_files/knue-cec-logo-removebg-preview.png" alt="knue-cec logo" width="200" height="165">
   </a>
 </p>
 
