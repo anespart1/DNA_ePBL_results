@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://getbootstrap.com/">
+  <a href="https://github.com/anespart1/DNA_ePBL_results/">
     <img src="https://github.com/anespart1/DNA_ePBL_results/blob/main/etc_files/knue-cec-logo-removebg-preview.png" alt="knue-cec logo" width="893" height="279">
   </a>
 </p>
@@ -22,9 +22,15 @@
 </p>
 
 
-## Bootstrap 5
+## 한국교원대학교 창의교육 거점센터 D.N.A.기반 ePBL 모델 소개
 
-Our default branch is for development of our Bootstrap 5 release. Head to the [`v4-dev` branch](https://github.com/twbs/bootstrap/tree/v4-dev) to view the readme, documentation, and source code for Bootstrap 4.
+<p align="center">
+  <a href="https://github.com/anespart1/DNA_ePBL_results/">
+    <img src="https://github.com/anespart1/DNA_ePBL_results/blob/main/etc_files/knue-cec-logo-removebg-preview.png" alt="knue-cec logo" width="893" height="279">
+  </a>
+</p>
+
+수업 환경 및 학생 수준을 고려한 수업 주제에 맞춤형 D.N.A. 콘텐츠를 제작/활용하여 웹기반 문제중심학습을 진행하는 수업 모형. 이를 통해 교사와 학생의 D.N.A. 리터러시를 강화하고 프로그램 성과 확산에 기여하고자 함.
 
 
 ## Table of contents
