@@ -116,7 +116,7 @@
 - 2021 한국교원대학교 창의교육 거점센터 핵심교원
 - 2022 한국교원대학교 창의교육 거점센터 선도교사
 - 수업계획 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/ea64cd5632370c36f8a2c03bea4265aa9717316d/Program_book/Lecture%20Planning/%EC%B0%A8%EC%8B%9C%EB%B3%84%20%EC%9C%A0%ED%98%95%ED%99%94%20%EC%88%98%EC%97%85%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EA%B3%84%ED%9A%8D%EC%95%88(%EA%B9%80%ED%98%84%ED%83%9C).pdf">수업 프로그램 계획안</a>
-- 수업주제 - 다양한 암세포를 조사하고 오렌지3, 티처블머신, 이미지크롤러를 사용해 데이터 수집·분석·활용을 통해 나만의 암진단 AI를 만들어보기
+- 수업주제 - 오렌지3, 티처블머신, 이미지크롤러를 사용해 다양한 암세포의 데이터 수집·분석·활용하여 암진단 AI 만들기
 - 관련과목 - 과학
 - 발표자료 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/69fdd51e438900aea64a533fc1669b0254fc224e/Program_book/%EC%A4%91%EB%93%B1-%EC%84%A0%EB%8F%84%EA%B5%90%EC%82%AC-EC%95%94%EC%84%B8%ED%8F%AC%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EB%B6%84%EB%A5%98%EB%A5%BC%20%ED%86%B5%ED%95%9C%20%EC%95%94%EC%A7%84%EB%8B%A8%20AI%EB%A7%8C%EB%93%A4%EA%B8%B0-%EA%B9%80%ED%98%84%ED%83%9C%EC%84%A0%EC%83%9D%EB%8B%98.pdf">암진단 AI 만들기</a>
 <br>
