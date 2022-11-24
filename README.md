@@ -188,3 +188,9 @@
         잘 알려져 있듯이 블루베리와 함께 대표적인 항산화 음식이기도 하다.
     </p>
 </div>
+
+<style>
+  .multi-layout {
+  column-width: auto;
+  }
+</style>
