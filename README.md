@@ -53,6 +53,7 @@
 - 경기도 용인시 구갈초등학교 교사
 - 2021 한국교원대학교 창의교육 거점센터 핵심교원
 - 2022 한국교원대학교 창의교육 거점센터 선도교사
+- 수업계획 - <a href="">갈어린이</a>
 - 발표자료 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/main/Program_book/%EC%B4%88%EB%93%B1-%EC%84%A0%EB%8F%84%EA%B5%90%EC%82%AC-%EB%94%94%EC%A7%80%ED%84%B8%20%EC%84%B8%EA%B3%84%EC%8B%9C%EB%AF%BC%20%EA%B5%AC%EA%B0%88%EC%96%B4%EB%A6%B0%EC%9D%B4-%EA%B9%80%EC%97%B0%EA%B2%BD%EC%84%A0%EC%83%9D%EB%8B%98.pdf">SDGS를 AI로 해결하는 디지털 세계시민 구갈어린이</a>
 <br>
 
@@ -62,6 +63,7 @@
 
 - 전라북도 정읍시 정남초등학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
+- 수업계획 - 
 - 발표자료 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/main/Program_book/%EC%B4%88%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-%EC%9A%B0%EB%A6%AC%20%EB%AA%A8%EB%91%90%20%EC%83%9D%ED%83%9C%EA%B3%84%20%EC%A7%80%ED%82%B4%EC%9D%B4-%EA%B3%BD%ED%95%98%EC%97%B0%EC%84%A0%EC%83%9D%EB%8B%98.pdf">우리 모두 생태지킴이!</a>
 <br>
 
@@ -126,7 +128,8 @@
 - 경기도 수원시 화홍고등학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
 - 발표자료 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/f0138afa2708f96c281c1afdbdd4ffa1bb1e239b/Program_book/%EC%A4%91%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-%EC%9A%B0%EB%A6%AC%20%ED%95%99%EA%B5%90%20%EB%8F%85%EC%84%9C%20%EB%AC%B8%ED%99%94%20%EC%A0%95%EC%B0%A9%ED%95%98%EA%B8%B0%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%84%ED%98%9C%EB%A5%9C%EC%84%A0%EC%83%9D%EB%8B%98.pdf">우리 학교 독서 문화 정착하기 프로젝트</a>
-- 웹앱제작 - <a href="https://www.appsheet.com/start/151e09fb-2ead-4e13-8ff2-c156fe174a4d">독서 관리 앱 with Google Appsheet</a> <br> 테스트계정(**ID: 10101_홍길동** / **PASS: 1111**)
+- 노션버전 - <a href="https://panoramic-lemming-d60.notion.site/0eae3447db0941238228d9566eaa6dc7">우리 학교 독서 문화 정착하기 프로젝트</a>
+- 웹앱제작 - <a href="https://www.appsheet.com/start/151e09fb-2ead-4e13-8ff2-c156fe174a4d">독서 관리 앱 with Google Appsheet</a> <br> 테스트계정(**ID: 10101_홍길동** / **PASS: 1111**)
 
 <br>
 
