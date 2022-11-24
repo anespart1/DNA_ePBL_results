@@ -141,9 +141,9 @@
 ## Videos
 
 한국교원대학교 창의교육 거점센터에서 진행중인 사업 관련 다양한 영상을 다음에서 확인하실 수 있습니다.
-| 유튜브 테스트 | 유튜브 테스트2 |
+| 말하는대로 그림 그려주는 AI 앱 | 옛날 사진 화질 향상 + 컬러 복원 AI |
 | ------------- | -------------- |
-|[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")|[![옛날 사진 화질 향상 + 컬러 복원 인공지능 만들기 (코드 30줄)](https://i.ytimg.com/vi/vMlLgA-nhuY/hqdefault.jpg)](https://www.youtube.com/watch?v=vMlLgA-nhuY "옛날 사진 화질 향상 + 컬러 복원 인공지능 만들기 (코드 30줄)")|
+|[![말하는대로 그림 그려주는 AI 앱을 내 손으로 직접 만들기](https://i.ytimg.com/vi/JTw4WNC1Dy4/hqdefault.jpg)](https://www.youtube.com/watch?v=JTw4WNC1Dy4 "유튜브 - 빵형의 개발 도상국")|[![옛날 사진 화질 향상 + 컬러 복원 인공지능 만들기 (코드 30줄)](https://i.ytimg.com/vi/vMlLgA-nhuY/hqdefault.jpg)](https://www.youtube.com/watch?v=vMlLgA-nhuY "유튜브 - 빵형의 개발 도상국")|
 
 <br>
 
