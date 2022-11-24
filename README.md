@@ -33,13 +33,12 @@
 수업 환경 및 학생 수준을 고려한 수업 주제에 맞춤형 D.N.A. 콘텐츠를 제작/활용하여 웹기반 문제중심학습을 진행하는 수업 모형. 이를 통해 교사와 학생의 D.N.A. 리터러시를 강화하고 프로그램 성과 확산에 기여하고자 함.
 
 
-## Table of contents
+## Contents
 
-- [Quick start](#quick-start)
-- [Status](#status)
-- [What's included](#whats-included)
-- [Bugs and feature requests](#bugs-and-feature-requests)
-- [Documentation](#documentation)
+- [[초등-선도교사] 수업 프로그램 개발 사례](#[초등-선도교사] 수업 프로그램 개발 사례)
+- [[초등-핵심교원] 수업 적용 사례 발표](#초등-핵심교원] 수업 적용 사례 발표)
+- [[중등-선도교사] 수업 프로그램 개발 사례](#[중등-선도교사] 수업 프로그램 개발 사례)
+- [[중등-핵심교원] 수업 적용 사례 발표](#[중등-핵심교원] 수업 적용 사례 발표)
 - [Contributing](#contributing)
 - [Community](#community)
 - [Versioning](#versioning)
@@ -48,7 +47,7 @@
 - [Copyright and license](#copyright-and-license)
 
 
-## Quick start
+## [초등학교-선도교사] 수업 프로그램 개발 사례
 
 Several quick start options are available:
 
