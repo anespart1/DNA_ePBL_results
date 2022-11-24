@@ -4,6 +4,10 @@
   </a>
 </p>
 
+<p align="right">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit- counter&count_bg=%2338CDAC&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=true"/>
+  </a>
+ </p>
 
 <h3 align="center">한국교원대학교 창의교육 거점센터 수업 사례 및 결과물 공유 페이지</h3>
 
