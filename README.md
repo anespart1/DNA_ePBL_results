@@ -140,9 +140,10 @@
 
 ## Videos
 
+한국교원대학교 창의교육 거점센터에서 진행중인 사업 관련 다양한 영상을 다음에서 확인하실 수 있습니다.
 | 유튜브 테스트 | 유튜브 테스트2 |
 | ------------- | -------------- |
-|[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")|[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")|
+|[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")|[![옛날 사진 화질 향상 + 컬러 복원 인공지능 만들기 (코드 30줄)](https://www.img.youtube.com/watch?v=vMlLgA-nhuY/0.jpg)](https://www.youtube.com/watch?v=vMlLgA-nhuY "옛날 사진 화질 향상 + 컬러 복원 인공지능 만들기 (코드 30줄)")|
 
 <br>
 
