@@ -20,7 +20,7 @@
 <p align="center">
   관련 문의처(전화 043-230-3851~2 / 이메일 crezone@knue.ac.kr)
 </p>
-
+<br><br>
 
 ## 한국교원대학교 창의교육 거점센터 D.N.A.기반 ePBL 모델 소개
 
@@ -31,7 +31,7 @@
 </p>
 
 수업 환경 및 학생 수준을 고려한 수업 주제에 맞춤형 D.N.A. 콘텐츠를 제작/활용하여 웹기반 문제중심학습을 진행하는 수업 모형. 이를 통해 교사와 학생의 D.N.A. 리터러시를 강화하고 프로그램 성과 확산에 기여하고자 함.
-<br><br><br><br>
+<br><br>
 
 ## Contents
 
@@ -41,7 +41,7 @@
 - [중등-핵심교원-사례](#중등 - 핵심교원 수업 적용 사례 발표)
 - [Partners](#partners)
 - [Thanks](#thanks)
-<br><br><br><br>
+<br><br>
 
 ## 초등-선도교사-사례
 <br>
@@ -84,7 +84,7 @@
 
 <a href="https://github.com/anespart1/DNA_ePBL_results/blob/main/Program_book/%EC%B4%88%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-We%20will%20stop%20Climate%20Change-%EC%8B%AC%EC%A7%80%ED%98%9C%EC%84%A0%EC%83%9D%EB%8B%98.pdf">발표자료 - We will stop Climate Change!-as being a Webtoon Writer</a>
 <br>
-<br><br><br><br>
+<br><br>
   
 ## 중등-선도교사-사례
 <br>
@@ -125,7 +125,7 @@
 
 <a href="https://github.com/anespart1/DNA_ePBL_results/blob/f0138afa2708f96c281c1afdbdd4ffa1bb1e239b/Program_book/%EC%A4%91%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-%EC%9A%B0%EB%A6%AC%20%ED%95%99%EA%B5%90%20%EB%8F%85%EC%84%9C%20%EB%AC%B8%ED%99%94%20%EC%A0%95%EC%B0%A9%ED%95%98%EA%B8%B0%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%84%ED%98%9C%EB%A5%9C%EC%84%A0%EC%83%9D%EB%8B%98.pdf">발표자료 - 우리 학교 독서 문화 정착하기 프로젝트</a>
 <br>
-<br><br><br><br>
+<br><br>
   
   
 ## Status
