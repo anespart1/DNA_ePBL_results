@@ -7,7 +7,7 @@
 <h3 align="center">한국교원대학교 창의교육 거점센터 수업 사례 및 결과물 공유 페이지</h3>
 
 <p align="center">
-  한국교원대학교 창의교육 거점센터는 데이터, 네트워크, AI를 기반으로 한 문제중심학습 프로그램의 개발과 보급을 목적으로 다양한 활동을 진행하고 있습니다.
+  D.N.A.(Data, Network, AI)기반 ePBL 수업 프로그램 개발, 수업 적용, 관련 교원 연수 및 포럼 운영(2021~).
   <br>
   <a href="https://www.youtube.com/channel/UCeGM0FMjjaZyf5ew4ypaPWg"><strong>한국교원대학교 창의교육 거점센터 유튜브 보기 »</strong></a>
   <br>
