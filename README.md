@@ -1,3 +1,15 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="utf-8">
+    <title>배경 이미지</title>
+    <style>
+        .multi-layout {
+            column-count: 3;
+            column-gap: 50px;
+        }
+    </style>
+
 <p align="center">
   <a href="https://github.com/anespart1/DNA_ePBL_results/">
     <img src="https://github.com/anespart1/DNA_ePBL_results/blob/main/etc_files/knue-cec-logo-removebg-preview.png" alt="knue-cec logo">
@@ -188,9 +200,3 @@
         잘 알려져 있듯이 블루베리와 함께 대표적인 항산화 음식이기도 하다.
     </p>
 </div>
-
-<style>
-  .multi-layout {
-  column-width: auto;
-  }
-</style>
