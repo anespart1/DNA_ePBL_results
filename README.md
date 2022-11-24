@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://getbootstrap.com/">
-    <img src="https://github.com/anespart1/DNA_ePBL_results/blob/main/etc_files/knue-cec-logo-removebg-preview.png" alt="knue-cec logo" width="200" height="165">
+    <img src="https://github.com/anespart1/DNA_ePBL_results/blob/main/etc_files/knue-cec-logo-removebg-preview.png" alt="knue-cec logo" width="893" height="279">
   </a>
 </p>
 
