@@ -45,7 +45,7 @@
 
 ## 초등-선도교사-사례
 <br>
-김연경 선생님
+### 김연경 선생님
 - 경기도 용인시 구갈초등학교 교사
 - 2021 한국교원대학교 창의교육 거점센터 핵심교원
 - 2022 한국교원대학교 창의교육 거점센터 선도교사
@@ -56,18 +56,16 @@
 
 ## 초등-핵심교원-사례
 <br>
-곽하연 선생님
+### 곽하연 선생님
 - 전라북도 정읍시 정남초등학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
-<br>
 
 <a href="https://github.com/anespart1/DNA_ePBL_results/blob/main/Program_book/%EC%B4%88%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-%EC%9A%B0%EB%A6%AC%20%EB%AA%A8%EB%91%90%20%EC%83%9D%ED%83%9C%EA%B3%84%20%EC%A7%80%ED%82%B4%EC%9D%B4-%EA%B3%BD%ED%95%98%EC%97%B0%EC%84%A0%EC%83%9D%EB%8B%98.pdf">발표자료 - 우리 모두 생태지킴이!</a>
 <br>
 <br>
-김아라 선생님
+### 김아라 선생님
 - 경기도 성남시 성남신기초등학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
-<br>
 
 <a href="https://github.com/anespart1/DNA_ePBL_results/blob/main/Program_book/%EC%B4%88%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-My%20dream%20job%20Expo-%EA%B9%80%EC%95%84%EB%9D%BC%EC%84%A0%EC%83%9D%EB%8B%98.pdf">발표자료 - My dream job Expo</a>
 <br>
@@ -75,15 +73,13 @@
 김누리 선생님
 - 서울특별시 서울세명초등학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
-<br>
 
 <a href="https://github.com/anespart1/DNA_ePBL_results/blob/main/Program_book/%EC%B4%88%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-%EB%A7%88%EC%85%98%20%EC%A7%80%EA%B5%AC%20%EA%B7%80%ED%99%98%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B9%80%EB%88%84%EB%A6%AC%EC%84%A0%EC%83%9D%EB%8B%98.pdf">발표자료 - 마션: 지구귀환 프로젝트</a>
 <br>
 <br>
-심지혜 선생님
+### 심지혜 선생님
 - 인천광역시 인천석천초등학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
-<br>
 
 <a href="https://github.com/anespart1/DNA_ePBL_results/blob/main/Program_book/%EC%B4%88%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-We%20will%20stop%20Climate%20Change-%EC%8B%AC%EC%A7%80%ED%98%9C%EC%84%A0%EC%83%9D%EB%8B%98.pdf">발표자료 - We will stop Climate Change!-as being a Webtoon Writer</a>
 
