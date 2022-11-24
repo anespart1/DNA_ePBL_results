@@ -87,7 +87,12 @@
 - 인천광역시 인천석천초등학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
 - 발표자료 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/main/Program_book/%EC%B4%88%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-We%20will%20stop%20Climate%20Change-%EC%8B%AC%EC%A7%80%ED%98%9C%EC%84%A0%EC%83%9D%EB%8B%98.pdf">We will stop Climate Change!-as being a Webtoon Writer</a>
-- 활동자료 - <a href="https://www.youtube.com/watch?v=JTphfHYKvwI">기후변화 캠페인 웹툰 전시(유튜브)</a>
+- 활동자료 - <a href="https://padlet.com/jj1357ji/1">Incheon Seokcheon Elementary school Class 1(패들렛)</a>
+- 활동자료 - <a href="https://padlet.com/jj1357ji/2">Incheon Seokcheon Elementary school Class 2(패들렛)</a>
+- 활동자료 - <a href="https://padlet.com/jj1357ji/3">Incheon Seokcheon Elementary school Class 3(패들렛)</a>
+- 활동자료 - <a href="https://padlet.com/jj1357ji/4">Incheon Seokcheon Elementary school Class 4(패들렛)</a>
+- 활동자료 - <a href="https://padlet.com/jj1357ji/5">Incheon Seokcheon Elementary school Class 5(패들렛)</a>
+- 활동자료 - <a href="https://padlet.com/jj1357ji/6">Incheon Seokcheon Elementary school Class 6(패들렛)</a>
 <br><br>
 
 ## 중등-선도교사-사례
