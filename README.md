@@ -112,14 +112,14 @@
 - 충청남도 천안시 천안중앙고등학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
 - 발표자료 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/f0138afa2708f96c281c1afdbdd4ffa1bb1e239b/Program_book/%EC%A4%91%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-%ED%95%AD%EC%83%9D%EC%A0%9C%20%EB%82%B4%EC%84%B1%EA%B7%A0%20DNA%EB%A1%9C%20%EC%98%88%EB%B0%A9%ED%95%98%EC%9E%90-%EC%9D%B4%EB%B3%B4%EB%9D%BC%EC%84%A0%EC%83%9D%EB%8B%98.pdf">항생제 내성균, D.N.A.로 예방하자!</a>
-  <br>
+ <br>
 
 ### 박선민 선생님
 
 - 충청남도 아산시 온양한올고등학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
 - 발표자료 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/f0138afa2708f96c281c1afdbdd4ffa1bb1e239b/Program_book/%EC%A4%91%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-AI%20%EC%9D%98%EC%82%AC%20%EB%9B%B0%EC%96%B4%EB%84%98%EA%B8%B0%20%EA%B0%80%EB%8A%A5%ED%95%A0%EA%B9%8C-%EB%B0%95%EC%84%A0%EB%AF%BC%EC%84%A0%EC%83%9D%EB%8B%98.pdf">AI의사, 뛰어넘기, 가능할까?</a>
-  <br>
+ <br>
 
 ### 전혜륜 선생님
 
