@@ -151,7 +151,9 @@
 
 - 이애리 선생님(상명대학교 강사, [엘리쌤과인공지능](https://www.youtube.com/@user-il8xu7sw3f))
 
-
+| 오렌지3 - 주택가격예측 | 오렌지3 - 텍스트 전처리, 워드클라우드 |
+| ------------- | -------------- |
+|[![주택가격예측](https://i.ytimg.com/vi/l_SmizxCWiw/hqdefault.jpg)](https://www.youtube.com/watch?v=l_SmizxCWiw "유튜브 - 엘리쌤과인공지능")|[![텍스트데이터 전처리, 워드클라우드](https://i.ytimg.com/vi/MBIuRPd_cn0/hqdefault.jpg)](https://www.youtube.com/watch?v=MBIuRPd_cn0 "유튜브 - 엘리쌤과인공지능")|
 
 - 배주화 선생님(용산중학교 교사)
 - 정종호 선생님(한국자카르타국제학교 교사)
