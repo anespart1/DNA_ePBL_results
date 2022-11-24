@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align="center">Bootstrap</h3>
+<h3 align="center">한국교원대학교 창의교육 거점센터 수업 사례 및 결과물 공유 페이지</h3>
 
 <p align="center">
   Sleek, intuitive, and powerful front-end framework for faster and easier web development.
