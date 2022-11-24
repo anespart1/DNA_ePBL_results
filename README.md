@@ -12,7 +12,7 @@
   <a href="https://www.youtube.com/channel/UCeGM0FMjjaZyf5ew4ypaPWg"><strong>한국교원대학교 창의교육 거점센터 유튜브 보기 »</strong></a>
   <br>
   <br>
-  <a href="https://github.com/twbs/bootstrap/issues/new?assignees=-&labels=bug&template=bug_report.yml">Report bug</a>
+  <a href="https://github.com/anespart1/DNA_ePBL_results/issues/new?assignees=&labels=&template=knue-cec-%EC%9D%B4%EC%8A%88-%ED%85%9C%ED%94%8C%EB%A6%BF.md&title=">관련 문의하기</a>
   ·
   <a href="https://github.com/twbs/bootstrap/issues/new?assignees=&labels=feature&template=feature_request.yml">Request feature</a>
   ·
