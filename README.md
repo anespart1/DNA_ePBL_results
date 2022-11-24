@@ -46,12 +46,17 @@
 ## 초등-선도교사-사례
 
 김연경 선생님
-- 경기도 용인 구갈초등학교 교사<br>
+- 경기도 용인 구갈초등학교 교사
 - 2021 한국교원대학교 창의교육 거점센터 핵심교원
 - 2022 한국교원대학교 창의교육 거점센터 선도교사
+[발표자료 - SDGS를 AI로 해결하는 디지털 세계시민 구갈어린이](https://github.com/anespart1/DNA_ePBL_results/blob/main/Program_book/%EC%B4%88%EB%93%B1-%EC%84%A0%EB%8F%84%EA%B5%90%EC%82%AC-%EB%94%94%EC%A7%80%ED%84%B8%20%EC%84%B8%EA%B3%84%EC%8B%9C%EB%AF%BC%20%EA%B5%AC%EA%B0%88%EC%96%B4%EB%A6%B0%EC%9D%B4-%EA%B9%80%EC%97%B0%EA%B2%BD%EC%84%A0%EC%83%9D%EB%8B%98.pdf)
 
-- [발표자료: SDGS를 AI로 해결하는 디지털 세계시민 구갈어린이](https://github.com/anespart1/DNA_ePBL_results/blob/main/Program_book/%EC%B4%88%EB%93%B1-%EC%84%A0%EB%8F%84%EA%B5%90%EC%82%AC-%EB%94%94%EC%A7%80%ED%84%B8%20%EC%84%B8%EA%B3%84%EC%8B%9C%EB%AF%BC%20%EA%B5%AC%EA%B0%88%EC%96%B4%EB%A6%B0%EC%9D%B4-%EA%B9%80%EC%97%B0%EA%B2%BD%EC%84%A0%EC%83%9D%EB%8B%98.pdf)
-- 
+## 초등-핵심교원-사례
+
+곽하연 선생님
+- 전라북도 정읍 정남초등학교 교사
+- 2022 한국교원대학교 창의교육 거점센터 핵심교원
+[발표자료 - 우리 모두 생태지킴이!](https://github.com/anespart1/DNA_ePBL_results/blob/main/Program_book/%EC%B4%88%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-%EC%9A%B0%EB%A6%AC%20%EB%AA%A8%EB%91%90%20%EC%83%9D%ED%83%9C%EA%B3%84%20%EC%A7%80%ED%82%B4%EC%9D%B4-%EA%B3%BD%ED%95%98%EC%97%B0%EC%84%A0%EC%83%9D%EB%8B%98.pdf))
 
 ## Status
 
