@@ -140,12 +140,11 @@
 
 ## Videos
 
-<details>
-  <summary>관련 자료</summary>
-  | 유튜브 테스트 | 유튜브 테스트2 |
-  | ------------- | -------------- |
-  |[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")|[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")|
-</details>
+| 유튜브 테스트 | 유튜브 테스트2 |
+| ------------- | -------------- |
+|[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")|[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")|
+
+<br>
 
 ## Thanks
 
