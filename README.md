@@ -1,15 +1,3 @@
-<!DOCTYPE html>
-<html lang="ko">
-<head>
-    <meta charset="utf-8">
-    <title>배경 이미지</title>
-    <style>
-        .multi-layout {
-            column-count: 3;
-            column-gap: 50px;
-        }
-    </style>
-
 <p align="center">
   <a href="https://github.com/anespart1/DNA_ePBL_results/">
     <img src="https://github.com/anespart1/DNA_ePBL_results/blob/main/etc_files/knue-cec-logo-removebg-preview.png" alt="knue-cec logo">
@@ -177,26 +165,3 @@
   <br>
 </p>
 <h3 align="center">감사합니다</h3>
-
-<div class="multi-layout">
-    <p> <strong>토마토 : </strong>
-        토마토는 비타민A, C가 풍부할 뿐 아니라 희귀한 성분인 비타민 H와 P까지 포함된 과일이다.
-        칼륨과 같은 각종 미네랄은 혈액의 산성도를 낮추는 역할을 해주며
-        토마토에 들어있는 피코펜이라는 성분은 뛰어난 항암 작용을 보이며
-        잘 알려져 있듯이 블루베리와 함께 대표적인 항산화 음식이기도 하다.
-    </p>
-    <p>
-        <strong>토마토 : </strong>
-        토마토는 비타민A, C가 풍부할 뿐 아니라 희귀한 성분인 비타민 H와 P까지 포함된 과일이다.
-        칼륨과 같은 각종 미네랄은 혈액의 산성도를 낮추는 역할을 해주며
-        토마토에 들어있는 피코펜이라는 성분은 뛰어난 항암 작용을 보이며
-        잘 알려져 있듯이 블루베리와 함께 대표적인 항산화 음식이기도 하다.
-    </p>
-    <p>
-        <strong>토마토 : </strong>
-        토마토는 비타민A, C가 풍부할 뿐 아니라 희귀한 성분인 비타민 H와 P까지 포함된 과일이다.
-        칼륨과 같은 각종 미네랄은 혈액의 산성도를 낮추는 역할을 해주며
-        토마토에 들어있는 피코펜이라는 성분은 뛰어난 항암 작용을 보이며
-        잘 알려져 있듯이 블루베리와 함께 대표적인 항산화 음식이기도 하다.
-    </p>
-</div>
