@@ -138,21 +138,17 @@
 
 <br>
 
-## Videos
-
-한국교원대학교 창의교육 거점센터에서 진행중인 사업 관련 다양한 영상을 다음에서 확인하실 수 있습니다.
-| 말하는대로 그림 그려주는 AI 앱 | 옛날 사진 화질 향상 + 컬러 복원 AI |
-| ------------- | -------------- |
-|[![말하는대로 그림 그려주는 AI 앱을 내 손으로 직접 만들기](https://i.ytimg.com/vi/JTw4WNC1Dy4/hqdefault.jpg)](https://www.youtube.com/watch?v=JTw4WNC1Dy4 "유튜브 - 빵형의 개발 도상국")|[![옛날 사진 화질 향상 + 컬러 복원 인공지능 만들기 (코드 30줄)](https://i.ytimg.com/vi/vMlLgA-nhuY/hqdefault.jpg)](https://www.youtube.com/watch?v=vMlLgA-nhuY "유튜브 - 빵형의 개발 도상국")|
-
-<br>
-
 ## Thanks
 
 한국교원대학교 창의교육 거점센터는 D.N.A.기반 ePBL 프로그램 개발 및 확산을 위해 다양한 분들과 협력하였습니다.<br>
 연수 강사진으로, 포럼 운영 및 개최로, 그리고 수업 개발과 현장적용으로 협조해주신 많은 분들께 진심으로 감사드립니다.
 
 - 이태희 선생님(더매트릭스 대표, [빵형의 개발도상국](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg))
+<br>
+`이태희 선생님 - 빵형의 개발도상국`
+| 말하는대로 그림 그려주는 AI 앱 | 옛날 사진 화질 향상 + 컬러 복원 AI |
+| ------------- | -------------- |
+|[![말하는대로 그림 그려주는 AI 앱을 내 손으로 직접 만들기](https://i.ytimg.com/vi/JTw4WNC1Dy4/hqdefault.jpg)](https://www.youtube.com/watch?v=JTw4WNC1Dy4 "유튜브 - 빵형의 개발 도상국")|[![옛날 사진 화질 향상 + 컬러 복원 인공지능 만들기 (코드 30줄)](https://i.ytimg.com/vi/vMlLgA-nhuY/hqdefault.jpg)](https://www.youtube.com/watch?v=vMlLgA-nhuY "유튜브 - 빵형의 개발 도상국")|<br>
 - 이애리 선생님(상명대학교 강사, [엘리쌤과인공지능](https://www.youtube.com/@user-il8xu7sw3f))
 - 배주화 선생님(용산중학교 교사)
 - 정종호 선생님(한국자카르타국제학교 교사)
@@ -162,6 +158,8 @@
 - 한국과학창의재단
 - 한국교원대학교 창의교육 거점센터 선도교사진
 - 한국교원대학교 창의교육 거점센터 핵심교원진
+
+
 
 <h3 align="center">권리 보호</h3>
 
