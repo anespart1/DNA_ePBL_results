@@ -51,7 +51,7 @@
 - 2022 한국교원대학교 창의교육 거점센터 선도교사
 
 <a href="https://github.com/anespart1/DNA_ePBL_results/blob/main/Program_book/%EC%B4%88%EB%93%B1-%EC%84%A0%EB%8F%84%EA%B5%90%EC%82%AC-%EB%94%94%EC%A7%80%ED%84%B8%20%EC%84%B8%EA%B3%84%EC%8B%9C%EB%AF%BC%20%EA%B5%AC%EA%B0%88%EC%96%B4%EB%A6%B0%EC%9D%B4-%EA%B9%80%EC%97%B0%EA%B2%BD%EC%84%A0%EC%83%9D%EB%8B%98.pdf">발표자료 - SDGS를 AI로 해결하는 디지털 세계시민 구갈어린이</a>
-
+<br>
 
 ## 초등-핵심교원-사례
 <br>
@@ -83,8 +83,19 @@
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
 
 <a href="https://github.com/anespart1/DNA_ePBL_results/blob/main/Program_book/%EC%B4%88%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-We%20will%20stop%20Climate%20Change-%EC%8B%AC%EC%A7%80%ED%98%9C%EC%84%A0%EC%83%9D%EB%8B%98.pdf">발표자료 - We will stop Climate Change!-as being a Webtoon Writer</a>
+<br>
 
+## 중등-선도교사-사례
+<br>
+### 김현태 선생님
+- 서울특별시 숭실고등학교 교사
+- 2021 한국교원대학교 창의교육 거점센터 핵심교원
+- 2022 한국교원대학교 창의교육 거점센터 선도교사
 
+<a href="https://github.com/anespart1/DNA_ePBL_results/blob/69fdd51e438900aea64a533fc1669b0254fc224e/Program_book/%EC%A4%91%EB%93%B1-%EC%84%A0%EB%8F%84%EA%B5%90%EC%82%AC-EC%95%94%EC%84%B8%ED%8F%AC%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EB%B6%84%EB%A5%98%EB%A5%BC%20%ED%86%B5%ED%95%9C%20%EC%95%94%EC%A7%84%EB%8B%A8%20AI%EB%A7%8C%EB%93%A4%EA%B8%B0-%EA%B9%80%ED%98%84%ED%83%9C%EC%84%A0%EC%83%9D%EB%8B%98.pdf">발표자료 - SDGS를 AI로 해결하는 디지털 세계시민 구갈어린이</a>
+<br>
+
+  
 ## Status
 
 [![Build Status](https://img.shields.io/github/workflow/status/twbs/bootstrap/JS%20Tests/main?label=JS%20Tests&logo=github)](https://github.com/twbs/bootstrap/actions?query=workflow%3AJS+Tests+branch%3Amain)
