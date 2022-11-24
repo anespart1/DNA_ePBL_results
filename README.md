@@ -11,7 +11,7 @@
   <br>
   <a href="https://www.youtube.com/channel/UCeGM0FMjjaZyf5ew4ypaPWg"><strong>한국교원대학교 창의교육 거점센터 유튜브 보기 »</strong></a>
   <br>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2338CDAC&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=true"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanespart1%2FDNA_ePBL_results&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   <br>
   <a href="https://github.com/anespart1/DNA_ePBL_results/issues/new?assignees=&labels=&template=knue-cec-%EC%9D%B4%EC%8A%88-%ED%85%9C%ED%94%8C%EB%A6%BF.md&title=">관련 문의하기</a>
   ·
