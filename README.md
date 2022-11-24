@@ -168,8 +168,4 @@
 
 | 유튜브 테스트 | 유튜브 테스트2 |
 | ------------- | -------------- |
-|<iframe width="560" height="315" src="https://www.youtube.com/embed/JTw4WNC1Dy4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>|<iframe width="560" height="315" src="https://www.youtube.com/embed/JTw4WNC1Dy4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>|
-
-
-{% include 파일명.html id="유튜브동영상url" %}
-{% include 파일명.html id="유튜브동영상url" %}
+|{% youtube http://youtu.be/v8o-Vd__I-A %}|{% youtube http://youtu.be/v8o-Vd__I-A %}|
