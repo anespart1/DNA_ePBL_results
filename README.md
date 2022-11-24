@@ -37,8 +37,8 @@
 
 - [초등-선도교사-사례](#초등-선도교사-사례)
 - [초등-핵심교원-사례](#초등-핵심교원-사례)
-- [중등-선도교사-사례](#[중등 - 선도교사 수업 프로그램 개발 사례)
-- [중등-핵심교원-사례](#중등 - 핵심교원 수업 적용 사례 발표)
+- [중등-선도교사-사례](#중등-선도교사-사례)
+- [중등-핵심교원-사례](#중등-핵심교원-사례)
 - [Partners](#partners)
 - [Thanks](#thanks)
 <br><br>
@@ -54,21 +54,21 @@
 <br>
 
 ## 초등-핵심교원-사례
-<br>
+
 ### 곽하연 선생님
 - 전라북도 정읍시 정남초등학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
 
 <a href="https://github.com/anespart1/DNA_ePBL_results/blob/main/Program_book/%EC%B4%88%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-%EC%9A%B0%EB%A6%AC%20%EB%AA%A8%EB%91%90%20%EC%83%9D%ED%83%9C%EA%B3%84%20%EC%A7%80%ED%82%B4%EC%9D%B4-%EA%B3%BD%ED%95%98%EC%97%B0%EC%84%A0%EC%83%9D%EB%8B%98.pdf">발표자료 - 우리 모두 생태지킴이!</a>
 <br>
-<br>
+
 ### 김아라 선생님
 - 경기도 성남시 성남신기초등학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
 
 <a href="https://github.com/anespart1/DNA_ePBL_results/blob/main/Program_book/%EC%B4%88%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-My%20dream%20job%20Expo-%EA%B9%80%EC%95%84%EB%9D%BC%EC%84%A0%EC%83%9D%EB%8B%98.pdf">발표자료 - My dream job Expo</a>
 <br>
-<br>
+
 ### 김누리 선생님
 - 서울특별시 서울세명초등학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
@@ -77,7 +77,7 @@
 <br>
 <a href="https://padlet.com/lively9227/21iuntlww1mjotik">패들렛 - <화성 생존자 기자회견> </a>
 <br>
-<br>
+
 ### 심지혜 선생님
 - 인천광역시 인천석천초등학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
@@ -87,7 +87,7 @@
 <br><br>
   
 ## 중등-선도교사-사례
-<br>
+
 ### 김현태 선생님
 - 서울특별시 숭실고등학교 교사
 - 2021 한국교원대학교 창의교육 거점센터 핵심교원
@@ -97,28 +97,28 @@
 <br>
 
 ## 중등-핵심교원-사례
-<br>
+
 ### 박혜정 선생님
 - 경기도 용인시 동백중학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
 
 <a href="https://github.com/anespart1/DNA_ePBL_results/blob/f0138afa2708f96c281c1afdbdd4ffa1bb1e239b/Program_book/%EC%A4%91%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-%EB%8B%A4%EB%AC%B8%ED%99%94%20%EC%B9%9C%EA%B5%AC%EC%9D%98%20%EB%98%90%EB%9E%98%20%EB%A9%98%ED%86%A0%EB%90%98%EA%B8%B0-%EB%B0%95%ED%98%9C%EC%A0%95%EC%84%A0%EC%83%9D%EB%8B%98.pdf">발표자료 - 다문화 친구의 또래 멘토되기</a>
 <br>
-<br>
+
 ### 이보라 선생님
 - 충청남도 천안시 천안중앙고등학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
 
 <a href="https://github.com/anespart1/DNA_ePBL_results/blob/f0138afa2708f96c281c1afdbdd4ffa1bb1e239b/Program_book/%EC%A4%91%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-%ED%95%AD%EC%83%9D%EC%A0%9C%20%EB%82%B4%EC%84%B1%EA%B7%A0%20DNA%EB%A1%9C%20%EC%98%88%EB%B0%A9%ED%95%98%EC%9E%90-%EC%9D%B4%EB%B3%B4%EB%9D%BC%EC%84%A0%EC%83%9D%EB%8B%98.pdf">발표자료 - 항생제 내성균, D.N.A.로 예방하자!</a>
 <br>
-<br>
+
 ### 박선민 선생님
 - 충청남도 아산시 온양한올고등학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
 
 <a href="https://github.com/anespart1/DNA_ePBL_results/blob/f0138afa2708f96c281c1afdbdd4ffa1bb1e239b/Program_book/%EC%A4%91%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-AI%20%EC%9D%98%EC%82%AC%20%EB%9B%B0%EC%96%B4%EB%84%98%EA%B8%B0%20%EA%B0%80%EB%8A%A5%ED%95%A0%EA%B9%8C-%EB%B0%95%EC%84%A0%EB%AF%BC%EC%84%A0%EC%83%9D%EB%8B%98.pdf">발표자료 - AI의사, 뛰어넘기, 가능할까?</a>
 <br>
-<br>
+
 ### 전혜륜 선생님
 - 경기도 수원시 화홍고등학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
