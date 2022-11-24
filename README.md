@@ -168,4 +168,4 @@
 
 | 유튜브 테스트 | 유튜브 테스트2 |
 | ------------- | -------------- |
-|{% youtube http://youtu.be/v8o-Vd__I-A %}|{% youtube http://youtu.be/v8o-Vd__I-A %}|
+|[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")|[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")|
