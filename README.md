@@ -4,6 +4,7 @@
   </a>
 </p>
 
+
 <h3 align="center">한국교원대학교 창의교육 거점센터 수업 사례 및 결과물 공유 페이지</h3>
 
 <p align="center">
@@ -17,9 +18,11 @@
   <a href="https://github.com/anespart1/crezone_ebooks">2021년도 행사 자료</a>
 </p>
 
+
 <p align="center">
   관련 문의처(전화 043-230-3851~2 / 이메일 crezone@knue.ac.kr)
 </p>
+
 <br><br>
 
 ## 한국교원대학교 창의교육 거점센터 D.N.A.기반 ePBL 모델 소개
@@ -46,6 +49,7 @@
 ## 초등-선도교사-사례
 
 ### 김연경 선생님
+
 - 경기도 용인시 구갈초등학교 교사
 - 2021 한국교원대학교 창의교육 거점센터 핵심교원
 - 2022 한국교원대학교 창의교육 거점센터 선도교사
@@ -56,6 +60,7 @@
 ## 초등-핵심교원-사례
 
 ### 곽하연 선생님
+
 - 전라북도 정읍시 정남초등학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
 
@@ -63,6 +68,7 @@
 <br>
 
 ### 김아라 선생님
+
 - 경기도 성남시 성남신기초등학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
 
@@ -70,6 +76,7 @@
 <br>
 
 ### 김누리 선생님
+
 - 서울특별시 서울세명초등학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
 
@@ -77,18 +84,20 @@
 <br>
 <a href="https://padlet.com/lively9227/21iuntlww1mjotik">패들렛 - "화성 생존자 기자회견" </a>
 <br>
-  
+
 ### 심지혜 선생님
+
 - 인천광역시 인천석천초등학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
 
 <a href="https://github.com/anespart1/DNA_ePBL_results/blob/main/Program_book/%EC%B4%88%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-We%20will%20stop%20Climate%20Change-%EC%8B%AC%EC%A7%80%ED%98%9C%EC%84%A0%EC%83%9D%EB%8B%98.pdf">발표자료 - We will stop Climate Change!-as being a Webtoon Writer</a>
 <br>
 <br><br>
-  
+
 ## 중등-선도교사-사례
 
 ### 김현태 선생님
+
 - 서울특별시 숭실고등학교 교사
 - 2021 한국교원대학교 창의교육 거점센터 핵심교원
 - 2022 한국교원대학교 창의교육 거점센터 선도교사
@@ -99,6 +108,7 @@
 ## 중등-핵심교원-사례
 
 ### 박혜정 선생님
+
 - 경기도 용인시 동백중학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
 
@@ -106,28 +116,29 @@
 <br>
 
 ### 이보라 선생님
+
 - 충청남도 천안시 천안중앙고등학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
-
-<a href="https://github.com/anespart1/DNA_ePBL_results/blob/f0138afa2708f96c281c1afdbdd4ffa1bb1e239b/Program_book/%EC%A4%91%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-%ED%95%AD%EC%83%9D%EC%A0%9C%20%EB%82%B4%EC%84%B1%EA%B7%A0%20DNA%EB%A1%9C%20%EC%98%88%EB%B0%A9%ED%95%98%EC%9E%90-%EC%9D%B4%EB%B3%B4%EB%9D%BC%EC%84%A0%EC%83%9D%EB%8B%98.pdf">발표자료 - 항생제 내성균, D.N.A.로 예방하자!</a>
-<br>
+- 발표자료 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/f0138afa2708f96c281c1afdbdd4ffa1bb1e239b/Program_book/%EC%A4%91%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-%ED%95%AD%EC%83%9D%EC%A0%9C%20%EB%82%B4%EC%84%B1%EA%B7%A0%20DNA%EB%A1%9C%20%EC%98%88%EB%B0%A9%ED%95%98%EC%9E%90-%EC%9D%B4%EB%B3%B4%EB%9D%BC%EC%84%A0%EC%83%9D%EB%8B%98.pdf">항생제 내성균, D.N.A.로 예방하자!</a>
+  <br>
 
 ### 박선민 선생님
+
 - 충청남도 아산시 온양한올고등학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
-
-<a href="https://github.com/anespart1/DNA_ePBL_results/blob/f0138afa2708f96c281c1afdbdd4ffa1bb1e239b/Program_book/%EC%A4%91%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-AI%20%EC%9D%98%EC%82%AC%20%EB%9B%B0%EC%96%B4%EB%84%98%EA%B8%B0%20%EA%B0%80%EB%8A%A5%ED%95%A0%EA%B9%8C-%EB%B0%95%EC%84%A0%EB%AF%BC%EC%84%A0%EC%83%9D%EB%8B%98.pdf">발표자료 - AI의사, 뛰어넘기, 가능할까?</a>
-<br>
+- 발표자료 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/f0138afa2708f96c281c1afdbdd4ffa1bb1e239b/Program_book/%EC%A4%91%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-AI%20%EC%9D%98%EC%82%AC%20%EB%9B%B0%EC%96%B4%EB%84%98%EA%B8%B0%20%EA%B0%80%EB%8A%A5%ED%95%A0%EA%B9%8C-%EB%B0%95%EC%84%A0%EB%AF%BC%EC%84%A0%EC%83%9D%EB%8B%98.pdf">AI의사, 뛰어넘기, 가능할까?</a>
+  <br>
 
 ### 전혜륜 선생님
+
 - 경기도 수원시 화홍고등학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
+- 발표자료 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/f0138afa2708f96c281c1afdbdd4ffa1bb1e239b/Program_book/%EC%A4%91%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-%EC%9A%B0%EB%A6%AC%20%ED%95%99%EA%B5%90%20%EB%8F%85%EC%84%9C%20%EB%AC%B8%ED%99%94%20%EC%A0%95%EC%B0%A9%ED%95%98%EA%B8%B0%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%84%ED%98%9C%EB%A5%9C%EC%84%A0%EC%83%9D%EB%8B%98.pdf">우리 학교 독서 문화 정착하기 프로젝트</a>
+- 웹앱제작 - <a href="https://www.appsheet.com/start/151e09fb-2ead-4e13-8ff2-c156fe174a4d">독서 관리 앱 with Google Appsheet</a> <br> 테스트계정(ID: 10101_홍길동 /PASS: 1111)
 
-<a href="https://github.com/anespart1/DNA_ePBL_results/blob/f0138afa2708f96c281c1afdbdd4ffa1bb1e239b/Program_book/%EC%A4%91%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-%EC%9A%B0%EB%A6%AC%20%ED%95%99%EA%B5%90%20%EB%8F%85%EC%84%9C%20%EB%AC%B8%ED%99%94%20%EC%A0%95%EC%B0%A9%ED%95%98%EA%B8%B0%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%84%ED%98%9C%EB%A5%9C%EC%84%A0%EC%83%9D%EB%8B%98.pdf">발표자료 - 우리 학교 독서 문화 정착하기 프로젝트</a>
 <br>
-<br><br>
-  
-  
+
+
 ## Thanks
 
 한국교원대학교 창의교육 거점센터는 D.N.A.기반 ePBL 프로그램 개발 및 확산을 위해 다양한 분들과 협력하였습니다.<br>
@@ -154,4 +165,3 @@
   <br>
 </p>
 <h3 align="center">감사합니다</h3>
-
