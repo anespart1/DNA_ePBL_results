@@ -129,200 +129,25 @@
 <br><br>
   
   
-## 파트너쉽
+## 감사의 글
 
-한국교원대학교 창의교육 거점센터는 D.N.A.기반 ePBL 프로그램 개발 및 확산을 위해 다양한 분들과 협력하고 있습니다.
+한국교원대학교 창의교육 거점센터는 D.N.A.기반 ePBL 프로그램 개발 및 확산을 위해 다양한 분들과 협력하였습니다.<br>
+연수 강사진으로, 포럼 운영 및 개최로, 그리고 수업 개발과 현장적용으로 협조해주신 많은 분들께 진심으로 감사드립니다.
 
-### 빵형의 개발도상국
-- 유튜버([빵형의 개발도상국](https://www.youtube.com/@bbanghyong))
+- 이태희 선생님([빵형의 개발도상국](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg))
+- 이애리 선생님([엘리쌤과인공지능](https://www.youtube.com/@user-il8xu7sw3f))
+- 배주화 선생님(용산중학학교 교사)
+- 정종호 선생님(한국자카르타국제학교 교사)
+- 성하준 선생님(카카오모빌리티 매니저)
+- 경기도 교사연구회(경기도인공지능미래교육연구회)
+- 경상남도 교사연구회(메타버스카드충전소)
+- 한국과학창의재단
+- 한국교원대학교 창의교육 거점센터 선도교사진
+- 한국교원대학교 창의교육 거점센터 핵심교원진
 
-- Ask and explore [our GitHub Discussions](https://github.com/twbs/bootstrap/discussions).
-- Chat with fellow Bootstrappers in IRC. On the `irc.libera.chat` server, in the `#bootstrap` channel.
-- Implementation help may be found at Stack Overflow (tagged [`bootstrap-5`](https://stackoverflow.com/questions/tagged/bootstrap-5)).
-- Developers should use the keyword `bootstrap` on packages which modify or add to the functionality of Bootstrap when distributing through [npm](https://www.npmjs.com/browse/keyword/bootstrap) or similar delivery mechanisms for maximum discoverability.
+<br><br>
 
+## 권리보호
 
-
-## Thanks
-
-<a href="https://www.browserstack.com/">
-  <img src="https://live.browserstack.com/images/opensource/browserstack-logo.svg" alt="BrowserStack" width="192" height="42">
-</a>
-
-Thanks to [BrowserStack](https://www.browserstack.com/) for providing the infrastructure that allows us to test in real browsers!
-
-<a href="https://www.netlify.com/">
-  <img src="https://www.netlify.com/v3/img/components/full-logo-light.svg" alt="Netlify" width="147" height="40">
-</a>
-
-Thanks to [Netlify](https://www.netlify.com/) for providing us with Deploy Previews!
-
-## Status
-
-[![Build Status](https://img.shields.io/github/workflow/status/twbs/bootstrap/JS%20Tests/main?label=JS%20Tests&logo=github)](https://github.com/twbs/bootstrap/actions?query=workflow%3AJS+Tests+branch%3Amain)
-[![npm version](https://img.shields.io/npm/v/bootstrap)](https://www.npmjs.com/package/bootstrap)
-[![Gem version](https://img.shields.io/gem/v/bootstrap)](https://rubygems.org/gems/bootstrap)
-[![Meteor Atmosphere](https://img.shields.io/badge/meteor-twbs%3Abootstrap-blue)](https://atmospherejs.com/twbs/bootstrap)
-[![Packagist Prerelease](https://img.shields.io/packagist/vpre/twbs/bootstrap)](https://packagist.org/packages/twbs/bootstrap)
-[![NuGet](https://img.shields.io/nuget/vpre/bootstrap)](https://www.nuget.org/packages/bootstrap/absoluteLatest)
-[![Coverage Status](https://img.shields.io/coveralls/github/twbs/bootstrap/main)](https://coveralls.io/github/twbs/bootstrap?branch=main)
-[![CSS gzip size](https://img.badgesize.io/twbs/bootstrap/main/dist/css/bootstrap.min.css?compression=gzip&label=CSS%20gzip%20size)](https://github.com/twbs/bootstrap/blob/main/dist/css/bootstrap.min.css)
-[![CSS Brotli size](https://img.badgesize.io/twbs/bootstrap/main/dist/css/bootstrap.min.css?compression=brotli&label=CSS%20Brotli%20size)](https://github.com/twbs/bootstrap/blob/main/dist/css/bootstrap.min.css)
-[![JS gzip size](https://img.badgesize.io/twbs/bootstrap/main/dist/js/bootstrap.min.js?compression=gzip&label=JS%20gzip%20size)](https://github.com/twbs/bootstrap/blob/main/dist/js/bootstrap.min.js)
-[![JS Brotli size](https://img.badgesize.io/twbs/bootstrap/main/dist/js/bootstrap.min.js?compression=brotli&label=JS%20Brotli%20size)](https://github.com/twbs/bootstrap/blob/main/dist/js/bootstrap.min.js)
-[![BrowserStack Status](https://www.browserstack.com/automate/badge.svg?badge_key=SkxZcStBeExEdVJqQ2hWYnlWckpkNmNEY213SFp6WHFETWk2bGFuY3pCbz0tLXhqbHJsVlZhQnRBdEpod3NLSDMzaHc9PQ==--3d0b75245708616eb93113221beece33e680b229)](https://www.browserstack.com/automate/public-build/SkxZcStBeExEdVJqQ2hWYnlWckpkNmNEY213SFp6WHFETWk2bGFuY3pCbz0tLXhqbHJsVlZhQnRBdEpod3NLSDMzaHc9PQ==--3d0b75245708616eb93113221beece33e680b229)
-[![Backers on Open Collective](https://img.shields.io/opencollective/backers/bootstrap)](#backers)
-[![Sponsors on Open Collective](https://img.shields.io/opencollective/sponsors/bootstrap)](#sponsors)
-
-
-## What's included
-
-Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations.
-
-<details>
-  <summary>Download contents</summary>
-
-  ```text
-  bootstrap/
-  ├── css/
-  │   ├── bootstrap-grid.css
-  │   ├── bootstrap-grid.css.map
-  │   ├── bootstrap-grid.min.css
-  │   ├── bootstrap-grid.min.css.map
-  │   ├── bootstrap-grid.rtl.css
-  │   ├── bootstrap-grid.rtl.css.map
-  │   ├── bootstrap-grid.rtl.min.css
-  │   ├── bootstrap-grid.rtl.min.css.map
-  │   ├── bootstrap-reboot.css
-  │   ├── bootstrap-reboot.css.map
-  │   ├── bootstrap-reboot.min.css
-  │   ├── bootstrap-reboot.min.css.map
-  │   ├── bootstrap-reboot.rtl.css
-  │   ├── bootstrap-reboot.rtl.css.map
-  │   ├── bootstrap-reboot.rtl.min.css
-  │   ├── bootstrap-reboot.rtl.min.css.map
-  │   ├── bootstrap-utilities.css
-  │   ├── bootstrap-utilities.css.map
-  │   ├── bootstrap-utilities.min.css
-  │   ├── bootstrap-utilities.min.css.map
-  │   ├── bootstrap-utilities.rtl.css
-  │   ├── bootstrap-utilities.rtl.css.map
-  │   ├── bootstrap-utilities.rtl.min.css
-  │   ├── bootstrap-utilities.rtl.min.css.map
-  │   ├── bootstrap.css
-  │   ├── bootstrap.css.map
-  │   ├── bootstrap.min.css
-  │   ├── bootstrap.min.css.map
-  │   ├── bootstrap.rtl.css
-  │   ├── bootstrap.rtl.css.map
-  │   ├── bootstrap.rtl.min.css
-  │   └── bootstrap.rtl.min.css.map
-  └── js/
-      ├── bootstrap.bundle.js
-      ├── bootstrap.bundle.js.map
-      ├── bootstrap.bundle.min.js
-      ├── bootstrap.bundle.min.js.map
-      ├── bootstrap.esm.js
-      ├── bootstrap.esm.js.map
-      ├── bootstrap.esm.min.js
-      ├── bootstrap.esm.min.js.map
-      ├── bootstrap.js
-      ├── bootstrap.js.map
-      ├── bootstrap.min.js
-      └── bootstrap.min.js.map
-  ```
-</details>
-
-We provide compiled CSS and JS (`bootstrap.*`), as well as compiled and minified CSS and JS (`bootstrap.min.*`). [Source maps](https://developers.google.com/web/tools/chrome-devtools/javascript/source-maps) (`bootstrap.*.map`) are available for use with certain browsers' developer tools. Bundled JS files (`bootstrap.bundle.js` and minified `bootstrap.bundle.min.js`) include [Popper](https://popper.js.org/).
-
-
-## Bugs and feature requests
-
-Have a bug or a feature request? Please first read the [issue guidelines](https://github.com/twbs/bootstrap/blob/main/.github/CONTRIBUTING.md#using-the-issue-tracker) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/twbs/bootstrap/issues/new/choose).
-
-
-## Documentation
-
-Bootstrap's documentation, included in this repo in the root directory, is built with [Hugo](https://gohugo.io/) and publicly hosted on GitHub Pages at <https://getbootstrap.com/>. The docs may also be run locally.
-
-Documentation search is powered by [Algolia's DocSearch](https://docsearch.algolia.com/). Working on our search? Be sure to set `debug: true` in `site/assets/js/search.js`.
-
-### Running documentation locally
-
-1. Run `npm install` to install the Node.js dependencies, including Hugo (the site builder).
-2. Run `npm run test` (or a specific npm script) to rebuild distributed CSS and JavaScript files, as well as our docs assets.
-3. From the root `/bootstrap` directory, run `npm run docs-serve` in the command line.
-4. Open `http://localhost:9001/` in your browser, and voilà.
-
-Learn more about using Hugo by reading its [documentation](https://gohugo.io/documentation/).
-
-### Documentation for previous releases
-
-You can find all our previous releases docs on <https://getbootstrap.com/docs/versions/>.
-
-[Previous releases](https://github.com/twbs/bootstrap/releases) and their documentation are also available for download.
-
-
-## Contributing
-
-Please read through our [contributing guidelines](https://github.com/twbs/bootstrap/blob/main/.github/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
-
-Moreover, if your pull request contains JavaScript patches or features, you must include [relevant unit tests](https://github.com/twbs/bootstrap/tree/main/js/tests). All HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by [Mark Otto](https://github.com/mdo).
-
-Editor preferences are available in the [editor config](https://github.com/twbs/bootstrap/blob/main/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
-
-
-## Community
-
-Get updates on Bootstrap's development and chat with the project maintainers and community members.
-
-- Follow [@getbootstrap on Twitter](https://twitter.com/getbootstrap).
-- Read and subscribe to [The Official Bootstrap Blog](https://blog.getbootstrap.com/).
-- Ask and explore [our GitHub Discussions](https://github.com/twbs/bootstrap/discussions).
-- Chat with fellow Bootstrappers in IRC. On the `irc.libera.chat` server, in the `#bootstrap` channel.
-- Implementation help may be found at Stack Overflow (tagged [`bootstrap-5`](https://stackoverflow.com/questions/tagged/bootstrap-5)).
-- Developers should use the keyword `bootstrap` on packages which modify or add to the functionality of Bootstrap when distributing through [npm](https://www.npmjs.com/browse/keyword/bootstrap) or similar delivery mechanisms for maximum discoverability.
-
-
-
-## Thanks
-
-<a href="https://www.browserstack.com/">
-  <img src="https://live.browserstack.com/images/opensource/browserstack-logo.svg" alt="BrowserStack" width="192" height="42">
-</a>
-
-Thanks to [BrowserStack](https://www.browserstack.com/) for providing the infrastructure that allows us to test in real browsers!
-
-<a href="https://www.netlify.com/">
-  <img src="https://www.netlify.com/v3/img/components/full-logo-light.svg" alt="Netlify" width="147" height="40">
-</a>
-
-Thanks to [Netlify](https://www.netlify.com/) for providing us with Deploy Previews!
-
-
-## Sponsors
-
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/bootstrap#sponsor)]
-
-[![OC sponsor 0](https://opencollective.com/bootstrap/sponsor/0/avatar.svg)](https://opencollective.com/bootstrap/sponsor/0/website)
-[![OC sponsor 1](https://opencollective.com/bootstrap/sponsor/1/avatar.svg)](https://opencollective.com/bootstrap/sponsor/1/website)
-[![OC sponsor 2](https://opencollective.com/bootstrap/sponsor/2/avatar.svg)](https://opencollective.com/bootstrap/sponsor/2/website)
-[![OC sponsor 3](https://opencollective.com/bootstrap/sponsor/3/avatar.svg)](https://opencollective.com/bootstrap/sponsor/3/website)
-[![OC sponsor 4](https://opencollective.com/bootstrap/sponsor/4/avatar.svg)](https://opencollective.com/bootstrap/sponsor/4/website)
-[![OC sponsor 5](https://opencollective.com/bootstrap/sponsor/5/avatar.svg)](https://opencollective.com/bootstrap/sponsor/5/website)
-[![OC sponsor 6](https://opencollective.com/bootstrap/sponsor/6/avatar.svg)](https://opencollective.com/bootstrap/sponsor/6/website)
-[![OC sponsor 7](https://opencollective.com/bootstrap/sponsor/7/avatar.svg)](https://opencollective.com/bootstrap/sponsor/7/website)
-[![OC sponsor 8](https://opencollective.com/bootstrap/sponsor/8/avatar.svg)](https://opencollective.com/bootstrap/sponsor/8/website)
-[![OC sponsor 9](https://opencollective.com/bootstrap/sponsor/9/avatar.svg)](https://opencollective.com/bootstrap/sponsor/9/website)
-
-
-## Backers
-
-Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/bootstrap#backer)]
-
-[![Backers](https://opencollective.com/bootstrap/backers.svg?width=890)](https://opencollective.com/bootstrap#backers)
-
-
-## Copyright and license
-
-Code and documentation copyright 2011–2022 the [Bootstrap Authors](https://github.com/twbs/bootstrap/graphs/contributors) and [Twitter, Inc.](https://twitter.com) Code released under the [MIT License](https://github.com/twbs/bootstrap/blob/main/LICENSE). Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
+본 페이지에 게시된 모든 자료와 수업 결과물은 각 선생님들께서 만들어낸 것입니다.<br>
+다운로드 또는 엑세스하여 활용하실 때는 반드시 출처를 남기고 사용하거나 각 선생님을 통해 사용 허가를 받은 뒤 사용하여 주시기 바랍니다.
