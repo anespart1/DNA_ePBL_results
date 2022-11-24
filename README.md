@@ -14,11 +14,13 @@
   <br>
   <a href="https://github.com/anespart1/DNA_ePBL_results/issues/new?assignees=&labels=&template=knue-cec-%EC%9D%B4%EC%8A%88-%ED%85%9C%ED%94%8C%EB%A6%BF.md&title=">관련 문의하기</a>
   ·
-  <a href="https://github.com/twbs/bootstrap/issues/new?assignees=&labels=feature&template=feature_request.yml">Request feature</a>
-  ·
-  <a href="https://themes.getbootstrap.com/">Themes</a>
-  ·
-  <a href="https://blog.getbootstrap.com/">Blog</a>
+  <a href="https://github.com/anespart1/crezone_ebooks">2021년도 행사 자료</a>
+</p>
+
+<p align="center">
+  관련 문의처
+  <br>
+  전화: 043-230-3851~2    이메일: crezone@knue.ac.kr
 </p>
 
 
