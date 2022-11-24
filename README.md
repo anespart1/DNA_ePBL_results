@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://github.com/anespart1/DNA_ePBL_results/">
-    <img src="https://github.com/anespart1/DNA_ePBL_results/blob/main/etc_files/knue-cec-logo-removebg-preview.png" alt="knue-cec logo" width="893" height="279">
+    <img src="https://github.com/anespart1/DNA_ePBL_results/blob/main/etc_files/DNA_based_ePBL_model.png" alt="knue-cec program diagram">
   </a>
 </p>
 
