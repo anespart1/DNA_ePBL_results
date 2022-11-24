@@ -7,9 +7,9 @@
 <h3 align="center">한국교원대학교 창의교육 거점센터 수업 사례 및 결과물 공유 페이지</h3>
 
 <p align="center">
-  Sleek, intuitive, and powerful front-end framework for faster and easier web development.
+  한국교원대학교 창의교육 거점센터는 데이터, 네트워크, AI를 기반으로 한 문제중심학습 프로그램의 개발과 보급을 목적으로 다양한 활동을 진행하고 있습니다.
   <br>
-  <a href="https://getbootstrap.com/docs/5.2/"><strong>Explore Bootstrap docs »</strong></a>
+  <a href="https://www.youtube.com/channel/UCeGM0FMjjaZyf5ew4ypaPWg"><strong>한국교원대학교 창의교육 거점센터 유튜브 보기 »</strong></a>
   <br>
   <br>
   <a href="https://github.com/twbs/bootstrap/issues/new?assignees=-&labels=bug&template=bug_report.yml">Report bug</a>
