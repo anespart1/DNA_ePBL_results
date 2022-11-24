@@ -131,10 +131,11 @@
   
 ## 파트너쉽
 
-한국교원대학교 창의교육 거점센터는 D.N.A.기반 ePBL 프로그램 개발 및 확산을 위해 다음의 기관 및 단체와 협력 관계를 맺고 있습니다.
+한국교원대학교 창의교육 거점센터는 D.N.A.기반 ePBL 프로그램 개발 및 확산을 위해 다양한 분들과 협력하고 있습니다.
 
-- Follow [@getbootstrap on Twitter](https://twitter.com/getbootstrap).
-- Read and subscribe to [The Official Bootstrap Blog](https://blog.getbootstrap.com/).
+### 빵형의 개발도상국
+- 유튜버([빵형의 개발도상국](https://www.youtube.com/@bbanghyong))
+
 - Ask and explore [our GitHub Discussions](https://github.com/twbs/bootstrap/discussions).
 - Chat with fellow Bootstrappers in IRC. On the `irc.libera.chat` server, in the `#bootstrap` channel.
 - Implementation help may be found at Stack Overflow (tagged [`bootstrap-5`](https://stackoverflow.com/questions/tagged/bootstrap-5)).
