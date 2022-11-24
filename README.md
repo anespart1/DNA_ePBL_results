@@ -128,7 +128,7 @@
 - 경기도 용인시 동백중학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
 - 수업계획 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/ea64cd5632370c36f8a2c03bea4265aa9717316d/Program_book/Lecture%20Planning/%EC%B0%A8%EC%8B%9C%EB%B3%84%20%EC%9C%A0%ED%98%95%ED%99%94%20%EC%88%98%EC%97%85%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EA%B3%84%ED%9A%8D%EC%95%88(%EB%B0%95%ED%98%9C%EC%A0%95).pdf">수업 프로그램 계획안</a>
-- 수업주제 - 다문화가정 학생들의 문제를 파악하고 그들의 멘토가 되어 학교 생활 적응을 도울 수 있는 프로그램을 만들어 보기
+- 수업주제 - 다문화가정 학생들의 문제를 파악하고 그들의 멘토가 되어 학교 생활 적응을 돕는 프로그램을 제작해보기
 - 관련과목 - 정보
 - 발표자료 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/f0138afa2708f96c281c1afdbdd4ffa1bb1e239b/Program_book/%EC%A4%91%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-%EB%8B%A4%EB%AC%B8%ED%99%94%20%EC%B9%9C%EA%B5%AC%EC%9D%98%20%EB%98%90%EB%9E%98%20%EB%A9%98%ED%86%A0%EB%90%98%EA%B8%B0-%EB%B0%95%ED%98%9C%EC%A0%95%EC%84%A0%EC%83%9D%EB%8B%98.pdf">다문화 친구의 또래 멘토되기</a>
 <br>
@@ -148,7 +148,7 @@
 - 충청남도 아산시 온양한올고등학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
 - 수업계획 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/ea64cd5632370c36f8a2c03bea4265aa9717316d/Program_book/Lecture%20Planning/%EC%B0%A8%EC%8B%9C%EB%B3%84%20%EC%9C%A0%ED%98%95%ED%99%94%20%EC%88%98%EC%97%85%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EA%B3%84%ED%9A%8D%EC%95%88(%EB%B0%95%EC%84%A0%EB%AF%BC).pdf">수업 프로그램 계획안</a>
-- 수업주제 - 티처블머신을 통해 AI를 학습한 뒤 다양한 악성 종양 사진을 분석해 특징을 찾고 구분하는 AI의사를 설계, 테스트해보기
+- 수업주제 - 티처블머신으로 AI를 학습한 뒤 다양한 악성 종양 사진을 분석해 특징을 구분하는 AI의사를 설계, 테스트해보기
 - 관련과목 - 생명과학
 - 발표자료 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/f0138afa2708f96c281c1afdbdd4ffa1bb1e239b/Program_book/%EC%A4%91%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-AI%20%EC%9D%98%EC%82%AC%20%EB%9B%B0%EC%96%B4%EB%84%98%EA%B8%B0%20%EA%B0%80%EB%8A%A5%ED%95%A0%EA%B9%8C-%EB%B0%95%EC%84%A0%EB%AF%BC%EC%84%A0%EC%83%9D%EB%8B%98.pdf">AI의사, 뛰어넘기, 가능할까?</a>
  <br>
