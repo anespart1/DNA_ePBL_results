@@ -138,19 +138,21 @@
 
 <br>
 
+## Videos
 
-## Thanks
-
-한국교원대학교 창의교육 거점센터는 D.N.A.기반 ePBL 프로그램 개발 및 확산을 위해 다양한 분들과 협력하였습니다.<br>
-연수 강사진으로, 포럼 운영 및 개최로, 그리고 수업 개발과 현장적용으로 협조해주신 많은 분들께 진심으로 감사드립니다.
-
-- 이태희 선생님(더매트릭스 대표, [빵형의 개발도상국](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg))<br>
 <details>
   <summary>관련 자료</summary>
   | 유튜브 테스트 | 유튜브 테스트2 |
   | ------------- | -------------- |
   |[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")|[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")|
 </details>
+
+## Thanks
+
+한국교원대학교 창의교육 거점센터는 D.N.A.기반 ePBL 프로그램 개발 및 확산을 위해 다양한 분들과 협력하였습니다.<br>
+연수 강사진으로, 포럼 운영 및 개최로, 그리고 수업 개발과 현장적용으로 협조해주신 많은 분들께 진심으로 감사드립니다.
+
+- 이태희 선생님(더매트릭스 대표, [빵형의 개발도상국](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg))
 - 이애리 선생님(상명대학교 강사, [엘리쌤과인공지능](https://www.youtube.com/@user-il8xu7sw3f))
 - 배주화 선생님(용산중학교 교사)
 - 정종호 선생님(한국자카르타국제학교 교사)
@@ -171,5 +173,3 @@
   <br>
 </p>
 <h3 align="center">감사합니다</h3>
-
-
