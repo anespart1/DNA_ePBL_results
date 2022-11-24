@@ -90,9 +90,9 @@
 - 활동자료 - <a href="https://padlet.com/jj1357ji/1">Incheon Seokcheon Elementary school Class 1(패들렛)</a>
 - 활동자료 - <a href="https://padlet.com/jj1357ji/2">Incheon Seokcheon Elementary school Class 2(패들렛)</a>
 - 활동자료 - <a href="https://padlet.com/jj1357ji/3">Incheon Seokcheon Elementary school Class 3(패들렛)</a>
-- 활동자료 - <a href="https://padlet.com/jj1357ji/4">Incheon Seokcheon Elementary school Class 4(패들렛)</a>
-- 활동자료 - <a href="https://padlet.com/jj1357ji/5">Incheon Seokcheon Elementary school Class 5(패들렛)</a>
-- 활동자료 - <a href="https://padlet.com/jj1357ji/6">Incheon Seokcheon Elementary school Class 6(패들렛)</a>
+- 활동자료 - <a href="https://padlet.com/jihyesss00316/4">Incheon Seokcheon Elementary school Class 4(패들렛)</a>
+- 활동자료 - <a href="https://padlet.com/jihyesss00316/5">Incheon Seokcheon Elementary school Class 5(패들렛)</a>
+- 활동자료 - <a href="https://padlet.com/jihyesss00316/6">Incheon Seokcheon Elementary school Class 6(패들렛)</a>
 <br><br>
 
 ## 중등-선도교사-사례
