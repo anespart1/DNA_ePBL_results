@@ -145,12 +145,14 @@
 
 - 이태희 선생님(더매트릭스 대표, [빵형의 개발도상국](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg))
 
-`이태희 선생님 - 빵형의 개발도상국`
 | 말하는대로 그림 그려주는 AI 앱 | 옛날 사진 화질 향상 + 컬러 복원 AI |
 | ------------- | -------------- |
 |[![말하는대로 그림 그려주는 AI 앱을 내 손으로 직접 만들기](https://i.ytimg.com/vi/JTw4WNC1Dy4/hqdefault.jpg)](https://www.youtube.com/watch?v=JTw4WNC1Dy4 "유튜브 - 빵형의 개발 도상국")|[![옛날 사진 화질 향상 + 컬러 복원 인공지능 만들기 (코드 30줄)](https://i.ytimg.com/vi/vMlLgA-nhuY/hqdefault.jpg)](https://www.youtube.com/watch?v=vMlLgA-nhuY "유튜브 - 빵형의 개발 도상국")|
 
 - 이애리 선생님(상명대학교 강사, [엘리쌤과인공지능](https://www.youtube.com/@user-il8xu7sw3f))
+
+
+
 - 배주화 선생님(용산중학교 교사)
 - 정종호 선생님(한국자카르타국제학교 교사)
 - 성하준 선생님(카카오모빌리티 매니저)
