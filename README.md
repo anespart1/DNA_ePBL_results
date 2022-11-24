@@ -20,7 +20,7 @@
 <p align="center">
   관련 문의처
   <br>
-  전화:<u>043-230-3851~2</u> | 이메일:<u>crezone@knue.ac.kr</u>
+  전화: 043-230-3851~2 / 이메일: crezone@knue.ac.kr
 </p>
 
 
