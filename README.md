@@ -25,7 +25,7 @@
 
 <br><br>
 
-## 한국교원대학교 창의교육 거점센터 D.N.A.기반 ePBL 모델 소개
+## D.N.A.기반 ePBL 모델 소개
 
 <p align="center">
   <a href="https://github.com/anespart1/DNA_ePBL_results/">
