@@ -134,7 +134,7 @@
 - 경기도 수원시 화홍고등학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
 - 발표자료 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/f0138afa2708f96c281c1afdbdd4ffa1bb1e239b/Program_book/%EC%A4%91%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-%EC%9A%B0%EB%A6%AC%20%ED%95%99%EA%B5%90%20%EB%8F%85%EC%84%9C%20%EB%AC%B8%ED%99%94%20%EC%A0%95%EC%B0%A9%ED%95%98%EA%B8%B0%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%84%ED%98%9C%EB%A5%9C%EC%84%A0%EC%83%9D%EB%8B%98.pdf">우리 학교 독서 문화 정착하기 프로젝트</a>
-- 웹앱제작 - <a href="https://www.appsheet.com/start/151e09fb-2ead-4e13-8ff2-c156fe174a4d">독서 관리 앱 with Google Appsheet</a> <br> 테스트계정(ID: 10101_홍길동 /PASS: 1111)
+- 웹앱제작 - <a href="https://www.appsheet.com/start/151e09fb-2ead-4e13-8ff2-c156fe174a4d">독서 관리 앱 with Google Appsheet</a> <br> 테스트계정(**ID: 10101_홍길동** / **PASS: 1111**)
 
 <br>
 
