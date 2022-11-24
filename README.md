@@ -54,8 +54,8 @@
 - 2021 한국교원대학교 창의교육 거점센터 핵심교원
 - 2022 한국교원대학교 창의교육 거점센터 선도교사
 - 수업계획 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/main/Program_book/Lecture%20Planning/%EC%B0%A8%EC%8B%9C%EB%B3%84%20%EC%9C%A0%ED%98%95%ED%99%94%20%EC%88%98%EC%97%85%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EA%B3%84%ED%9A%8D%EC%95%88(%EA%B9%80%EC%97%B0%EA%B2%BD).pdf">수업 프로그램 계획안</a>
+- 수업주제 - AI 이해를 바탕으로 관련 기술을 활용하여 SDGs 연계 글로벌 문제를 직접 선택·해결해보기
 - 관련과목 - 융합(사회·국어·창체)
-- 수업주제 - AI 이해를 바탕으로 관련 기술을 활용하여 SDGs 연계 글로벌 문제를 직접 선택·해결해보는 AI융합게이미피케이션 교육 프로그램
 - 발표자료 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/main/Program_book/%EC%B4%88%EB%93%B1-%EC%84%A0%EB%8F%84%EA%B5%90%EC%82%AC-%EB%94%94%EC%A7%80%ED%84%B8%20%EC%84%B8%EA%B3%84%EC%8B%9C%EB%AF%BC%20%EA%B5%AC%EA%B0%88%EC%96%B4%EB%A6%B0%EC%9D%B4-%EA%B9%80%EC%97%B0%EA%B2%BD%EC%84%A0%EC%83%9D%EB%8B%98.pdf">SDGs를 AI로 해결하는 디지털 세계시민 구갈어린이</a>
 <br>
 
@@ -66,6 +66,8 @@
 - 전라북도 정읍시 정남초등학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
 - 수업계획 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/ea64cd5632370c36f8a2c03bea4265aa9717316d/Program_book/Lecture%20Planning/%EC%B0%A8%EC%8B%9C%EB%B3%84%20%EC%9C%A0%ED%98%95%ED%99%94%20%EC%88%98%EC%97%85%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EA%B3%84%ED%9A%8D%EC%95%88(%EA%B3%BD%ED%95%98%EC%97%B0).pdf">수업 프로그램 계획안</a>
+- 수업주제 - 멸종위기동물과 사람들의 생태계 훼손 사례를 살펴보고 생태계 보전 방법을 찾아보기
+- 관련과목 - 과학
 - 발표자료 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/main/Program_book/%EC%B4%88%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-%EC%9A%B0%EB%A6%AC%20%EB%AA%A8%EB%91%90%20%EC%83%9D%ED%83%9C%EA%B3%84%20%EC%A7%80%ED%82%B4%EC%9D%B4-%EA%B3%BD%ED%95%98%EC%97%B0%EC%84%A0%EC%83%9D%EB%8B%98.pdf">우리 모두 생태지킴이!</a>
 <br>
 
@@ -74,6 +76,8 @@
 - 경기도 성남시 성남신기초등학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
 - 수업계획 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/ea64cd5632370c36f8a2c03bea4265aa9717316d/Program_book/Lecture%20Planning/%EC%B0%A8%EC%8B%9C%EB%B3%84%20%EC%9C%A0%ED%98%95%ED%99%94%20%EC%88%98%EC%97%85%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EA%B3%84%ED%9A%8D%EC%95%88(%EA%B9%80%EC%95%84%EB%9D%BC).pdf">수업 프로그램 계획안</a>
+- 수업주제 - 나의 장점과 미래 직업 선택을 위해 필요한 정보가 무엇인지 탐색하고, 직업을 선택한 후 소개해보기
+- 관련과목 - 영어
 - 발표자료 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/main/Program_book/%EC%B4%88%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-My%20dream%20job%20Expo-%EA%B9%80%EC%95%84%EB%9D%BC%EC%84%A0%EC%83%9D%EB%8B%98.pdf">My dream job Expo</a>
 <br>
 
@@ -82,6 +86,8 @@
 - 서울특별시 서울세명초등학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
 - 수업계획 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/ea64cd5632370c36f8a2c03bea4265aa9717316d/Program_book/Lecture%20Planning/%EC%B0%A8%EC%8B%9C%EB%B3%84%20%EC%9C%A0%ED%98%95%ED%99%94%20%EC%88%98%EC%97%85%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EA%B3%84%ED%9A%8D%EC%95%88(%EA%B9%80%EB%88%84%EB%A6%AC).pdf">수업 프로그램 계획안</a>
+- 수업주제 - 무비 엔지니어링을 통해 영화 마션 속 문제를 D.N.A.를 통해 해결해보기
+- 관련과목 - 융합(과학·실과)
 - 발표자료 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/main/Program_book/%EC%B4%88%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-%EB%A7%88%EC%85%98%20%EC%A7%80%EA%B5%AC%20%EA%B7%80%ED%99%98%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B9%80%EB%88%84%EB%A6%AC%EC%84%A0%EC%83%9D%EB%8B%98.pdf">마션: 지구귀환 프로젝트</a>
 - 활동자료 - <a href="https://padlet.com/lively9227/21iuntlww1mjotik">"화성 생존자 기자회견(패들렛)" </a>
 <br>
@@ -91,6 +97,8 @@
 - 인천광역시 인천석천초등학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
 - 수업계획 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/ea64cd5632370c36f8a2c03bea4265aa9717316d/Program_book/Lecture%20Planning/%EC%B0%A8%EC%8B%9C%EB%B3%84%20%EC%9C%A0%ED%98%95%ED%99%94%20%EC%88%98%EC%97%85%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EA%B3%84%ED%9A%8D%EC%95%88(%EC%8B%AC%EC%A7%80%ED%98%9C).pdf">수업 프로그램 계획안</a>
+- 수업주제 - 기후 변화를 빅데이터로 예측하고, 기부 변화 예방 및 방지법을 웹툰으로 표현하고 홍보하기
+- 관련과목 - 영어
 - 발표자료 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/main/Program_book/%EC%B4%88%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-We%20will%20stop%20Climate%20Change-%EC%8B%AC%EC%A7%80%ED%98%9C%EC%84%A0%EC%83%9D%EB%8B%98.pdf">We will stop Climate Change!-as being a Webtoon Writer</a>
 - 활동자료 - <a href="https://padlet.com/jj1357ji/1">Incheon Seokcheon Elementary school Class 1(패들렛)</a>
 - 활동자료 - <a href="https://padlet.com/jj1357ji/2">Incheon Seokcheon Elementary school Class 2(패들렛)</a>
@@ -108,6 +116,8 @@
 - 2021 한국교원대학교 창의교육 거점센터 핵심교원
 - 2022 한국교원대학교 창의교육 거점센터 선도교사
 - 수업계획 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/ea64cd5632370c36f8a2c03bea4265aa9717316d/Program_book/Lecture%20Planning/%EC%B0%A8%EC%8B%9C%EB%B3%84%20%EC%9C%A0%ED%98%95%ED%99%94%20%EC%88%98%EC%97%85%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EA%B3%84%ED%9A%8D%EC%95%88(%EA%B9%80%ED%98%84%ED%83%9C).pdf">수업 프로그램 계획안</a>
+- 수업주제 - 다양한 암세포를 조사하고 오렌지3, 티처블머신, 이미지크롤러를 사용해 데이터 수집·분석·활용을 통해 나만의 암진단 AI를 만들어보기
+- 관련과목 - 과학
 - 발표자료 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/69fdd51e438900aea64a533fc1669b0254fc224e/Program_book/%EC%A4%91%EB%93%B1-%EC%84%A0%EB%8F%84%EA%B5%90%EC%82%AC-EC%95%94%EC%84%B8%ED%8F%AC%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EB%B6%84%EB%A5%98%EB%A5%BC%20%ED%86%B5%ED%95%9C%20%EC%95%94%EC%A7%84%EB%8B%A8%20AI%EB%A7%8C%EB%93%A4%EA%B8%B0-%EA%B9%80%ED%98%84%ED%83%9C%EC%84%A0%EC%83%9D%EB%8B%98.pdf">암진단 AI 만들기</a>
 <br>
 
@@ -118,6 +128,8 @@
 - 경기도 용인시 동백중학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
 - 수업계획 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/ea64cd5632370c36f8a2c03bea4265aa9717316d/Program_book/Lecture%20Planning/%EC%B0%A8%EC%8B%9C%EB%B3%84%20%EC%9C%A0%ED%98%95%ED%99%94%20%EC%88%98%EC%97%85%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EA%B3%84%ED%9A%8D%EC%95%88(%EB%B0%95%ED%98%9C%EC%A0%95).pdf">수업 프로그램 계획안</a>
+- 수업주제 - 다문화가정 학생들의 문제를 파악하고 그들의 멘토가 되어 학교 생활 적응을 도울 수 있는 프로그램을 만들어 보기
+- 관련과목 - 정보
 - 발표자료 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/f0138afa2708f96c281c1afdbdd4ffa1bb1e239b/Program_book/%EC%A4%91%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-%EB%8B%A4%EB%AC%B8%ED%99%94%20%EC%B9%9C%EA%B5%AC%EC%9D%98%20%EB%98%90%EB%9E%98%20%EB%A9%98%ED%86%A0%EB%90%98%EA%B8%B0-%EB%B0%95%ED%98%9C%EC%A0%95%EC%84%A0%EC%83%9D%EB%8B%98.pdf">다문화 친구의 또래 멘토되기</a>
 <br>
 
@@ -126,6 +138,8 @@
 - 충청남도 천안시 천안중앙고등학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
 - 수업계획 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/ea64cd5632370c36f8a2c03bea4265aa9717316d/Program_book/Lecture%20Planning/%EC%B0%A8%EC%8B%9C%EB%B3%84%20%EC%9C%A0%ED%98%95%ED%99%94%20%EC%88%98%EC%97%85%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EA%B3%84%ED%9A%8D%EC%95%88(%EC%9D%B4%EB%B3%B4%EB%9D%BC).pdf">수업 프로그램 계획안</a>
+- 수업주제 - 항생제 내성균의 심각성을 파악하고, 데이터를 활용하여 문제점을 분석, 해결방안을 찾아보는 ePBL 활동하기
+- 관련과목 - 과학탐구실험
 - 발표자료 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/f0138afa2708f96c281c1afdbdd4ffa1bb1e239b/Program_book/%EC%A4%91%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-%ED%95%AD%EC%83%9D%EC%A0%9C%20%EB%82%B4%EC%84%B1%EA%B7%A0%20DNA%EB%A1%9C%20%EC%98%88%EB%B0%A9%ED%95%98%EC%9E%90-%EC%9D%B4%EB%B3%B4%EB%9D%BC%EC%84%A0%EC%83%9D%EB%8B%98.pdf">항생제 내성균, D.N.A.로 예방하자!</a>
  <br>
 
@@ -134,6 +148,8 @@
 - 충청남도 아산시 온양한올고등학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
 - 수업계획 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/ea64cd5632370c36f8a2c03bea4265aa9717316d/Program_book/Lecture%20Planning/%EC%B0%A8%EC%8B%9C%EB%B3%84%20%EC%9C%A0%ED%98%95%ED%99%94%20%EC%88%98%EC%97%85%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EA%B3%84%ED%9A%8D%EC%95%88(%EB%B0%95%EC%84%A0%EB%AF%BC).pdf">수업 프로그램 계획안</a>
+- 수업주제 - 티처블머신을 통해 AI를 학습한 뒤 다양한 악성 종양 사진을 분석해 특징을 찾고 구분하는 AI의사를 설계, 테스트해보기
+- 관련과목 - 생명과학
 - 발표자료 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/f0138afa2708f96c281c1afdbdd4ffa1bb1e239b/Program_book/%EC%A4%91%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-AI%20%EC%9D%98%EC%82%AC%20%EB%9B%B0%EC%96%B4%EB%84%98%EA%B8%B0%20%EA%B0%80%EB%8A%A5%ED%95%A0%EA%B9%8C-%EB%B0%95%EC%84%A0%EB%AF%BC%EC%84%A0%EC%83%9D%EB%8B%98.pdf">AI의사, 뛰어넘기, 가능할까?</a>
  <br>
 
@@ -142,6 +158,8 @@
 - 경기도 수원시 화홍고등학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
 - 수업계획 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/ea64cd5632370c36f8a2c03bea4265aa9717316d/Program_book/Lecture%20Planning/%EC%B0%A8%EC%8B%9C%EB%B3%84%20%EC%9C%A0%ED%98%95%ED%99%94%20%EC%88%98%EC%97%85%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EA%B3%84%ED%9A%8D%EC%95%88(%EC%A0%84%ED%98%9C%EB%A5%9C).pdf">수업 프로그램 계획안</a>
+- 수업주제 - 화홍고등학교와 지역 학교 학생들의 독서실태를 파악하고 바람직한 독서 습관 및 문화 형성을 위한 방법을 찾아보기
+- 관련과목 - 국어
 - 발표자료 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/f0138afa2708f96c281c1afdbdd4ffa1bb1e239b/Program_book/%EC%A4%91%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-%EC%9A%B0%EB%A6%AC%20%ED%95%99%EA%B5%90%20%EB%8F%85%EC%84%9C%20%EB%AC%B8%ED%99%94%20%EC%A0%95%EC%B0%A9%ED%95%98%EA%B8%B0%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%84%ED%98%9C%EB%A5%9C%EC%84%A0%EC%83%9D%EB%8B%98.pdf">우리 학교 독서 문화 정착하기 프로젝트</a>
 - 노션버전 - <a href="https://panoramic-lemming-d60.notion.site/0eae3447db0941238228d9566eaa6dc7">우리 학교 독서 문화 정착하기 프로젝트</a>
 - 웹앱제작 - <a href="https://www.appsheet.com/start/151e09fb-2ead-4e13-8ff2-c156fe174a4d">독서 관리 앱 with Google Appsheet</a> <br> 테스트계정(**ID: 10101_홍길동** / **PASS: 1111**)
