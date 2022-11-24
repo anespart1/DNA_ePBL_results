@@ -36,29 +36,21 @@
 ## Contents
 
 - [초등-선도교사-사례](#초등-선도교사-사례)
-- [초등-핵심교원-사례](#초등 - 핵심교원 수업 적용 사례 발표)
-- [중등 - 선도교사 수업 프로그램 개발 사례](#[중등 - 선도교사 수업 프로그램 개발 사례)
-- [중등 - 핵심교원 수업 적용 사례 발표](#중등 - 핵심교원 수업 적용 사례 발표)
-- [Contributing](#contributing)
-- [Community](#community)
-- [Versioning](#versioning)
-- [Creators](#creators)
+- [초등-핵심교원-사례](#초등-핵심교원-사례)
+- [중등-선도교사-사례](#[중등 - 선도교사 수업 프로그램 개발 사례)
+- [중등-핵심교원-사례](#중등 - 핵심교원 수업 적용 사례 발표)
+- [Partners](#partners)
 - [Thanks](#thanks)
-- [Copyright and license](#copyright-and-license)
 
 
 ## 초등-선도교사-사례
 
-Several quick start options are available:
+김연경 선생님
+- 경기도 용인 구갈초등학교 교사
+- 2021 한국교원대학교 창의교육 거점센터 핵심교원
+- 2022 한국교원대학교 창의교육 거점센터 선도교사
 
-- [Download the latest release](https://github.com/twbs/bootstrap/archive/v5.2.3.zip)
-- Clone the repo: `git clone https://github.com/twbs/bootstrap.git`
-- Install with [npm](https://www.npmjs.com/): `npm install bootstrap@v5.2.3`
-- Install with [yarn](https://yarnpkg.com/): `yarn add bootstrap@v5.2.3`
-- Install with [Composer](https://getcomposer.org/): `composer require twbs/bootstrap:5.2.3`
-- Install with [NuGet](https://www.nuget.org/): CSS: `Install-Package bootstrap` Sass: `Install-Package bootstrap.sass`
-
-Read the [Getting started page](https://getbootstrap.com/docs/5.2/getting-started/introduction/) for information on the framework contents, templates, examples, and more.
+- [발표자료](https://github.com/anespart1/DNA_ePBL_results/blob/main/Program_book/%EC%B4%88%EB%93%B1-%EC%84%A0%EB%8F%84%EA%B5%90%EC%82%AC-%EB%94%94%EC%A7%80%ED%84%B8%20%EC%84%B8%EA%B3%84%EC%8B%9C%EB%AF%BC%20%EA%B5%AC%EA%B0%88%EC%96%B4%EB%A6%B0%EC%9D%B4-%EA%B9%80%EC%97%B0%EA%B2%BD%EC%84%A0%EC%83%9D%EB%8B%98.pdf)
 
 
 ## Status
