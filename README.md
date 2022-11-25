@@ -218,7 +218,7 @@
 |[![주택가격예측](https://i.ytimg.com/vi/l_SmizxCWiw/hqdefault.jpg)](https://www.youtube.com/watch?v=l_SmizxCWiw "유튜브 - 엘리쌤과인공지능")|[![텍스트데이터 전처리, 워드클라우드](https://i.ytimg.com/vi/MBIuRPd_cn0/hqdefault.jpg)](https://www.youtube.com/watch?v=MBIuRPd_cn0 "유튜브 - 엘리쌤과인공지능")|
 
 - 경기도 교사연구회(경기도인공지능미래교육연구회)
-- 경상남도 교사연구회(메타버스카드충전소)
+- 경상남도 교사연구회(메타버스 카드 충전소)
 - 한국과학창의재단
 - 한국교원대학교 창의교육 거점센터 선도교사진
 - 한국교원대학교 창의교육 거점센터 핵심교원진
