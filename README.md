@@ -104,6 +104,7 @@
 - 수업주제 - 무비 엔지니어링을 통해 영화 마션 속 문제를 D.N.A.를 통해 해결해보기
 - 관련과목 - 융합(과학·실과)
 - 발표자료 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/main/Program_book/%EC%B4%88%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-%EB%A7%88%EC%85%98%20%EC%A7%80%EA%B5%AC%20%EA%B7%80%ED%99%98%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B9%80%EB%88%84%EB%A6%AC%EC%84%A0%EC%83%9D%EB%8B%98.pdf">마션: 지구귀환 프로젝트</a>
+- 다른버전 - <a href="https://www.miricanvas.com/v/11kp3mp">마션: 지구귀환 프로젝트</a>
 - 활동자료 - <a href="https://padlet.com/lively9227/21iuntlww1mjotik">"화성 생존자 기자회견(패들렛)" </a>
 <br>
 
