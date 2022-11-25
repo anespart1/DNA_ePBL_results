@@ -131,7 +131,7 @@
 - 2021 한국교원대학교 창의교육 거점센터 핵심교원
 - 2022 한국교원대학교 창의교육 거점센터 선도교사
 - 수업계획 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/ea64cd5632370c36f8a2c03bea4265aa9717316d/Program_book/Lecture%20Planning/%EC%B0%A8%EC%8B%9C%EB%B3%84%20%EC%9C%A0%ED%98%95%ED%99%94%20%EC%88%98%EC%97%85%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EA%B3%84%ED%9A%8D%EC%95%88(%EA%B9%80%ED%98%84%ED%83%9C).pdf">수업 프로그램 계획안</a>
-- 수업주제 - 오렌지3, 티처블머신, 이미지크롤러를 사용해 다양한 암세포의 데이터 수집·분석·활용하여 암진단 AI 만들기
+- 수업주제 - 오렌지3, 티처블머신, 이미지크롤러를 사용, 암세포의 데이터 수집·분석·활용해 암진단 AI 만들기
 - 관련과목 - 과학
 - 발표자료 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/69fdd51e438900aea64a533fc1669b0254fc224e/Program_book/%EC%A4%91%EB%93%B1-%EC%84%A0%EB%8F%84%EA%B5%90%EC%82%AC-EC%95%94%EC%84%B8%ED%8F%AC%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EB%B6%84%EB%A5%98%EB%A5%BC%20%ED%86%B5%ED%95%9C%20%EC%95%94%EC%A7%84%EB%8B%A8%20AI%EB%A7%8C%EB%93%A4%EA%B8%B0-%EA%B9%80%ED%98%84%ED%83%9C%EC%84%A0%EC%83%9D%EB%8B%98.pdf">암진단 AI 만들기</a>
 <br>
@@ -143,7 +143,7 @@
 - 경기도 용인시 동백중학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
 - 수업계획 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/ea64cd5632370c36f8a2c03bea4265aa9717316d/Program_book/Lecture%20Planning/%EC%B0%A8%EC%8B%9C%EB%B3%84%20%EC%9C%A0%ED%98%95%ED%99%94%20%EC%88%98%EC%97%85%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EA%B3%84%ED%9A%8D%EC%95%88(%EB%B0%95%ED%98%9C%EC%A0%95).pdf">수업 프로그램 계획안</a>
-- 수업주제 - 다문화가정 학생들의 문제를 파악하고 그들의 멘토가 되어 학교 생활 적응을 돕는 프로그램을 제작해보기
+- 수업주제 - 다문화가정 학생들의 멘토가 되어 문제를 해결하고 학교 생활 적응을 돕는 프로그램을 제작해보기
 - 관련과목 - 정보
 - 발표자료 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/f0138afa2708f96c281c1afdbdd4ffa1bb1e239b/Program_book/%EC%A4%91%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-%EB%8B%A4%EB%AC%B8%ED%99%94%20%EC%B9%9C%EA%B5%AC%EC%9D%98%20%EB%98%90%EB%9E%98%20%EB%A9%98%ED%86%A0%EB%90%98%EA%B8%B0-%EB%B0%95%ED%98%9C%EC%A0%95%EC%84%A0%EC%83%9D%EB%8B%98.pdf">다문화 친구의 또래 멘토되기</a>
 <br>
@@ -153,7 +153,7 @@
 - 충청남도 천안시 천안중앙고등학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
 - 수업계획 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/ea64cd5632370c36f8a2c03bea4265aa9717316d/Program_book/Lecture%20Planning/%EC%B0%A8%EC%8B%9C%EB%B3%84%20%EC%9C%A0%ED%98%95%ED%99%94%20%EC%88%98%EC%97%85%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EA%B3%84%ED%9A%8D%EC%95%88(%EC%9D%B4%EB%B3%B4%EB%9D%BC).pdf">수업 프로그램 계획안</a>
-- 수업주제 - 항생제 내성균의 심각성을 파악하고, 데이터를 활용하여 문제점을 분석, 해결방안을 찾아보는 ePBL 활동하기
+- 수업주제 - 항생제 내성균 위험성을 파악하고, 데이터를 활용해 문제해결방안을 찾아보는 ePBL 활동하기
 - 관련과목 - 과학탐구실험
 - 발표자료 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/f0138afa2708f96c281c1afdbdd4ffa1bb1e239b/Program_book/%EC%A4%91%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-%ED%95%AD%EC%83%9D%EC%A0%9C%20%EB%82%B4%EC%84%B1%EA%B7%A0%20DNA%EB%A1%9C%20%EC%98%88%EB%B0%A9%ED%95%98%EC%9E%90-%EC%9D%B4%EB%B3%B4%EB%9D%BC%EC%84%A0%EC%83%9D%EB%8B%98.pdf">항생제 내성균, D.N.A.로 예방하자!</a>
  <br>
@@ -163,7 +163,7 @@
 - 충청남도 아산시 온양한올고등학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
 - 수업계획 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/ea64cd5632370c36f8a2c03bea4265aa9717316d/Program_book/Lecture%20Planning/%EC%B0%A8%EC%8B%9C%EB%B3%84%20%EC%9C%A0%ED%98%95%ED%99%94%20%EC%88%98%EC%97%85%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EA%B3%84%ED%9A%8D%EC%95%88(%EB%B0%95%EC%84%A0%EB%AF%BC).pdf">수업 프로그램 계획안</a>
-- 수업주제 - 티처블머신으로 AI를 학습한 뒤 다양한 악성 종양 사진을 분석해 특징을 구분하는 AI의사를 설계, 테스트해보기
+- 수업주제 - 티처블머신으로 다양한 악성 종양 사진을 분석해 특징을 구분하는 AI의사를 설계, 테스트해보기
 - 관련과목 - 생명과학
 - 발표자료 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/f0138afa2708f96c281c1afdbdd4ffa1bb1e239b/Program_book/%EC%A4%91%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-AI%20%EC%9D%98%EC%82%AC%20%EB%9B%B0%EC%96%B4%EB%84%98%EA%B8%B0%20%EA%B0%80%EB%8A%A5%ED%95%A0%EA%B9%8C-%EB%B0%95%EC%84%A0%EB%AF%BC%EC%84%A0%EC%83%9D%EB%8B%98.pdf">AI의사, 뛰어넘기, 가능할까?</a>
  <br>
@@ -173,7 +173,7 @@
 - 경기도 수원시 화홍고등학교 교사
 - 2022 한국교원대학교 창의교육 거점센터 핵심교원
 - 수업계획 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/ea64cd5632370c36f8a2c03bea4265aa9717316d/Program_book/Lecture%20Planning/%EC%B0%A8%EC%8B%9C%EB%B3%84%20%EC%9C%A0%ED%98%95%ED%99%94%20%EC%88%98%EC%97%85%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EA%B3%84%ED%9A%8D%EC%95%88(%EC%A0%84%ED%98%9C%EB%A5%9C).pdf">수업 프로그램 계획안</a>
-- 수업주제 - 화홍고등학교와 지역 학교 학생들의 독서실태를 파악하고 바람직한 독서 습관 및 문화 형성을 위한 방법을 찾아보기
+- 수업주제 - 학교와 지역 학생들의 독서실태를 파악하고 바람직한 독서 문화 형성을 위한 방법 찾아보기
 - 관련과목 - 국어
 - 발표자료 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/f0138afa2708f96c281c1afdbdd4ffa1bb1e239b/Program_book/%EC%A4%91%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-%EC%9A%B0%EB%A6%AC%20%ED%95%99%EA%B5%90%20%EB%8F%85%EC%84%9C%20%EB%AC%B8%ED%99%94%20%EC%A0%95%EC%B0%A9%ED%95%98%EA%B8%B0%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%84%ED%98%9C%EB%A5%9C%EC%84%A0%EC%83%9D%EB%8B%98.pdf">우리 학교 독서 문화 정착하기 프로젝트</a>
 - 노션버전 - <a href="https://panoramic-lemming-d60.notion.site/0eae3447db0941238228d9566eaa6dc7">우리 학교 독서 문화 정착하기 프로젝트</a>
@@ -199,7 +199,7 @@
 ## Thanks
 
 한국교원대학교 창의교육 거점센터는 D.N.A.기반 ePBL 프로그램 개발 및 확산을 위해 다양한 분들과 협력하였습니다.<br>
-연수 강사진으로, 포럼 운영 및 개최로, 그리고 수업 개발과 현장적용으로 협조해주신 많은 분들께 진심으로 감사드립니다.
+연수와 포럼의 강사진으로, 또 수업 개발과 현장적용으로 협조해주신 많은 분들께 진심으로 감사드립니다.
 
 - 배주화 선생님(용산중학교 교사)
 - 김민정 선생님(덱스컨설팅 컨설턴트)
@@ -227,6 +227,7 @@
 
 <h3 align="center">권리 보호</h3>
 
+
 <p align="center">
   본 페이지에 게시된 모든 자료와 수업 결과물은 각 선생님들께서 만들어낸 것입니다.
   <br>
@@ -234,4 +235,6 @@
   문의사항은 한국교원대학교 창의교육 거점센터 또는 각 선생님에게 부탁드립니다.
   <br>
 </p>
+
+
 <h3 align="center">감사합니다</h3>
