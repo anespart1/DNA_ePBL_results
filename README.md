@@ -189,7 +189,7 @@
 | ------------- | -------------- | -------------- |
 | ![교사 건강과 미래교육](https://github.com/anespart1/DNA_ePBL_results/blob/24bf7909ce03d5e31041c76945ebacb6148f7c92/etc_files/220615_%EA%B1%B4%EA%B0%95%EB%AF%B8%EB%9E%98%EA%B5%90%EC%9C%A1_%ED%8F%AC%EC%8A%A4%ED%84%B0_%EC%8B%9C%EC%95%88.jpg) | ![미래 창의교육 플랫폼, 메타버스](https://github.com/anespart1/DNA_ePBL_results/blob/24bf7909ce03d5e31041c76945ebacb6148f7c92/etc_files/220707_%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4_%ED%8F%AC%EC%8A%A4%ED%84%B0_%EC%8B%9C%EC%95%882%EA%B5%90.jpg) | ![D.N.A. 교육 도구 O.E.P.](https://github.com/anespart1/DNA_ePBL_results/blob/24bf7909ce03d5e31041c76945ebacb6148f7c92/etc_files/220913_OEP_%ED%8F%AC%EC%8A%A4%ED%84%B0_%EC%8B%9C%EC%95%88_%EC%B5%9C%EC%A2%85.jpg) |
 
-관련 유튜브 보러 가기<br>
+`관련 유튜브 보러 가기`<br>
 | 미래 창의교육 플랫폼, 메타버스 | D.N.A. 교육 도구 O.E.P. |
 | ------------- | -------------- |
 |[![미래 창의융합교육 플랫폼, 메타버스](https://i.ytimg.com/vi/POYp_Mbh9Gc/hqdefault.jpg)](https://youtube.com/playlist?list=PLsgYnNGzz4WQgg7yvlFhouU4FmQO-2-jq "미래 창의융합교육 플랫폼, 메타버스")|[![D.N.A. 기반 교육 도구 O.E.P.](https://i.ytimg.com/vi/5YApYcbx3xM/hqdefault.jpg)](https://youtube.com/playlist?list=PLsgYnNGzz4WQsMlCz1kyhwbjGwMxMD5y6 "D.N.A. 기반 교육 도구 O.E.P.")|
