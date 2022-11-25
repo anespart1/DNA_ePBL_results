@@ -56,6 +56,7 @@
 - [초등-핵심교원-사례](#초등-핵심교원-사례)
 - [중등-선도교사-사례](#중등-선도교사-사례)
 - [중등-핵심교원-사례](#중등-핵심교원-사례)
+- [현장네트워크포럼](#현장네트워크포럼)
 - [Thanks](#Thanks)
 
 <br>
@@ -177,6 +178,16 @@
 - 발표자료 - <a href="https://github.com/anespart1/DNA_ePBL_results/blob/f0138afa2708f96c281c1afdbdd4ffa1bb1e239b/Program_book/%EC%A4%91%EB%93%B1-%ED%95%B5%EC%8B%AC%EA%B5%90%EC%9B%90-%EC%9A%B0%EB%A6%AC%20%ED%95%99%EA%B5%90%20%EB%8F%85%EC%84%9C%20%EB%AC%B8%ED%99%94%20%EC%A0%95%EC%B0%A9%ED%95%98%EA%B8%B0%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%84%ED%98%9C%EB%A5%9C%EC%84%A0%EC%83%9D%EB%8B%98.pdf">우리 학교 독서 문화 정착하기 프로젝트</a>
 - 노션버전 - <a href="https://panoramic-lemming-d60.notion.site/0eae3447db0941238228d9566eaa6dc7">우리 학교 독서 문화 정착하기 프로젝트</a>
 - 웹앱제작 - <a href="https://www.appsheet.com/start/151e09fb-2ead-4e13-8ff2-c156fe174a4d">독서 관리 앱 with Google Appsheet</a> <br> 테스트계정(**ID: 10101_홍길동** / **PASS: 1111**)
+
+<br>
+
+## 현장네트워크포럼
+
+저희 센터는 D.N.A.기반 ePBL 프로그램 성과 공유 및 확산을 위해 현장네트워크포럼을 기획·운영하고 있습니다.<br>
+
+| 교사 건강과 미래교육 | 미래 창의교육 플랫폼, 메타버스 | D.N.A. 교육 도구 O.E.P. |
+| ------------- | -------------- | -------------- |
+| ![교사 건강과 미래교육](https://github.com/anespart1/DNA_ePBL_results/blob/24bf7909ce03d5e31041c76945ebacb6148f7c92/etc_files/220615_%EA%B1%B4%EA%B0%95%EB%AF%B8%EB%9E%98%EA%B5%90%EC%9C%A1_%ED%8F%AC%EC%8A%A4%ED%84%B0_%EC%8B%9C%EC%95%88.jpg) | ![미래 창의교육 플랫폼, 메타버스](https://github.com/anespart1/DNA_ePBL_results/blob/24bf7909ce03d5e31041c76945ebacb6148f7c92/etc_files/220707_%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4_%ED%8F%AC%EC%8A%A4%ED%84%B0_%EC%8B%9C%EC%95%882%EA%B5%90.jpg) | ![D.N.A. 교육 도구 O.E.P.](https://github.com/anespart1/DNA_ePBL_results/blob/24bf7909ce03d5e31041c76945ebacb6148f7c92/etc_files/220913_OEP_%ED%8F%AC%EC%8A%A4%ED%84%B0_%EC%8B%9C%EC%95%88_%EC%B5%9C%EC%A2%85.jpg) |
 
 <br>
 
