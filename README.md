@@ -28,6 +28,17 @@
 
 <br><br>
 
+## 2022 수업콘서트 세션장 소개
+
+<p align="center">
+  <a href="https://zep.us/play/D6pK6z">
+    <img src="https://github.com/anespart1/DNA_ePBL_results/blob/main/etc_files/2022%EC%84%B8%EC%85%98%EC%9E%A5%20%EC%95%88%EB%82%B4.png" alt="knue-cec program diagram">
+  </a>
+</p>
+해당 이미지를 클릭하면 ZEP으로 이동합니다
+
+<br><br>
+
 ## D.N.A.기반 ePBL 모델 소개
 
 <p align="center">
